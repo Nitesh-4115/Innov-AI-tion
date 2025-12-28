@@ -61,7 +61,7 @@ High-level components:
 
 ```mermaid
 flowchart LR
-  U[User Input] -->|Text/Voice| UI[Frontend Chat UI]
+  U[User Input] -->|Text| UI[Frontend Chat UI]
   UI -->|POST /chat| API[FastAPI Chat Router]
   API -->|Context| DB[(Database)]
   API -->|Route| Router[Agent Orchestrator]
