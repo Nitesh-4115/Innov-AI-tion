@@ -69,7 +69,8 @@ flowchart LR
   Router --> MA[Monitoring Agent]
   Router --> BA[Barrier Agent]
   Router --> LA[Liaison Agent]
-  PA --> KB[Knowledge Base (RAG, Drug DB)]
+  PA --> KB["Knowledge Base (RAG, Drug DB)"]
+  
   MA --> KB
   BA --> KB
   LA --> KB
@@ -77,8 +78,7 @@ flowchart LR
   MA --> ActionLayer
   BA --> ActionLayer
   LA --> ActionLayer
-  ActionLayer --> UI
-```
+  ActionLayer --> UI```
 
 ### Architecture diagram (detailed workflow)
 
