@@ -73,7 +73,10 @@ flowchart LR
   MA --> KB
   BA --> KB
   LA --> KB
-  Agents -->|Actions| ActionLayer[Reminders / Reports / Alerts]
+  PA --> ActionLayer[Reminders / Reports / Alerts]
+  MA --> ActionLayer
+  BA --> ActionLayer
+  LA --> ActionLayer
   ActionLayer --> UI
 ```
 
