@@ -1,0 +1,311 @@
+{
+  "total_patients": 25,
+  "overall_adherence_rate": 75.8,
+  "by_profile": {},
+  "by_medication": {
+    "Metformin": {
+      "patients": 9,
+      "total_doses": 1080,
+      "doses_taken": 853,
+      "adherence_rate": 79.0
+    },
+    "Tiotropium": {
+      "patients": 4,
+      "total_doses": 240,
+      "doses_taken": 166,
+      "adherence_rate": 69.2
+    },
+    "Escitalopram": {
+      "patients": 1,
+      "total_doses": 60,
+      "doses_taken": 48,
+      "adherence_rate": 80.0
+    },
+    "Albuterol": {
+      "patients": 4,
+      "total_doses": 0,
+      "doses_taken": 0,
+      "adherence_rate": 0
+    },
+    "Warfarin": {
+      "patients": 3,
+      "total_doses": 180,
+      "doses_taken": 154,
+      "adherence_rate": 85.6
+    },
+    "Metoprolol": {
+      "patients": 5,
+      "total_doses": 600,
+      "doses_taken": 443,
+      "adherence_rate": 73.8
+    },
+    "Sertraline": {
+      "patients": 6,
+      "total_doses": 360,
+      "doses_taken": 248,
+      "adherence_rate": 68.9
+    },
+    "Levothyroxine": {
+      "patients": 6,
+      "total_doses": 360,
+      "doses_taken": 281,
+      "adherence_rate": 78.1
+    },
+    "Acetaminophen": {
+      "patients": 3,
+      "total_doses": 540,
+      "doses_taken": 416,
+      "adherence_rate": 77.0
+    },
+    "Buspirone": {
+      "patients": 1,
+      "total_doses": 120,
+      "doses_taken": 112,
+      "adherence_rate": 93.3
+    },
+    "Fluticasone": {
+      "patients": 4,
+      "total_doses": 480,
+      "doses_taken": 368,
+      "adherence_rate": 76.7
+    },
+    "Lisinopril": {
+      "patients": 3,
+      "total_doses": 180,
+      "doses_taken": 126,
+      "adherence_rate": 70.0
+    },
+    "Omeprazole": {
+      "patients": 4,
+      "total_doses": 240,
+      "doses_taken": 170,
+      "adherence_rate": 70.8
+    },
+    "Atorvastatin": {
+      "patients": 2,
+      "total_doses": 120,
+      "doses_taken": 81,
+      "adherence_rate": 67.5
+    },
+    "Glipizide": {
+      "patients": 1,
+      "total_doses": 60,
+      "doses_taken": 40,
+      "adherence_rate": 66.7
+    },
+    "Gabapentin": {
+      "patients": 2,
+      "total_doses": 360,
+      "doses_taken": 267,
+      "adherence_rate": 74.2
+    },
+    "Pantoprazole": {
+      "patients": 1,
+      "total_doses": 60,
+      "doses_taken": 47,
+      "adherence_rate": 78.3
+    }
+  },
+  "patient_summaries": [
+    {
+      "patient_id": 1,
+      "name": "Thomas Moore",
+      "medications": 2,
+      "total_doses": 180,
+      "doses_taken": 114,
+      "adherence_rate": 63.3
+    },
+    {
+      "patient_id": 2,
+      "name": "Donald Lewis",
+      "medications": 4,
+      "total_doses": 240,
+      "doses_taken": 202,
+      "adherence_rate": 84.2
+    },
+    {
+      "patient_id": 3,
+      "name": "Donna Williams",
+      "medications": 2,
+      "total_doses": 180,
+      "doses_taken": 120,
+      "adherence_rate": 66.7
+    },
+    {
+      "patient_id": 4,
+      "name": "Andrew Ramirez",
+      "medications": 4,
+      "total_doses": 420,
+      "doses_taken": 270,
+      "adherence_rate": 64.3
+    },
+    {
+      "patient_id": 5,
+      "name": "Susan Williams",
+      "medications": 2,
+      "total_doses": 120,
+      "doses_taken": 76,
+      "adherence_rate": 63.3
+    },
+    {
+      "patient_id": 6,
+      "name": "Karen Sanchez",
+      "medications": 3,
+      "total_doses": 240,
+      "doses_taken": 226,
+      "adherence_rate": 94.2
+    },
+    {
+      "patient_id": 7,
+      "name": "Margaret Lopez",
+      "medications": 2,
+      "total_doses": 300,
+      "doses_taken": 258,
+      "adherence_rate": 86.0
+    },
+    {
+      "patient_id": 8,
+      "name": "Paul Garcia",
+      "medications": 3,
+      "total_doses": 300,
+      "doses_taken": 267,
+      "adherence_rate": 89.0
+    },
+    {
+      "patient_id": 9,
+      "name": "Margaret Taylor",
+      "medications": 1,
+      "total_doses": 120,
+      "doses_taken": 86,
+      "adherence_rate": 71.7
+    },
+    {
+      "patient_id": 10,
+      "name": "Emily Sanchez",
+      "medications": 1,
+      "total_doses": 60,
+      "doses_taken": 45,
+      "adherence_rate": 75.0
+    },
+    {
+      "patient_id": 11,
+      "name": "Jennifer Ramirez",
+      "medications": 4,
+      "total_doses": 360,
+      "doses_taken": 236,
+      "adherence_rate": 65.6
+    },
+    {
+      "patient_id": 12,
+      "name": "Matthew Taylor",
+      "medications": 1,
+      "total_doses": 60,
+      "doses_taken": 47,
+      "adherence_rate": 78.3
+    },
+    {
+      "patient_id": 13,
+      "name": "Matthew Brown",
+      "medications": 1,
+      "total_doses": 60,
+      "doses_taken": 49,
+      "adherence_rate": 81.7
+    },
+    {
+      "patient_id": 14,
+      "name": "Sarah Thomas",
+      "medications": 3,
+      "total_doses": 120,
+      "doses_taken": 88,
+      "adherence_rate": 73.3
+    },
+    {
+      "patient_id": 15,
+      "name": "Joseph Perez",
+      "medications": 4,
+      "total_doses": 360,
+      "doses_taken": 234,
+      "adherence_rate": 65.0
+    },
+    {
+      "patient_id": 16,
+      "name": "Margaret Robinson",
+      "medications": 3,
+      "total_doses": 300,
+      "doses_taken": 275,
+      "adherence_rate": 91.7
+    },
+    {
+      "patient_id": 17,
+      "name": "Karen Rodriguez",
+      "medications": 3,
+      "total_doses": 120,
+      "doses_taken": 93,
+      "adherence_rate": 77.5
+    },
+    {
+      "patient_id": 18,
+      "name": "Steven Lopez",
+      "medications": 2,
+      "total_doses": 180,
+      "doses_taken": 147,
+      "adherence_rate": 81.7
+    },
+    {
+      "patient_id": 19,
+      "name": "Matthew Taylor",
+      "medications": 1,
+      "total_doses": 180,
+      "doses_taken": 149,
+      "adherence_rate": 82.8
+    },
+    {
+      "patient_id": 20,
+      "name": "Susan Jackson",
+      "medications": 3,
+      "total_doses": 240,
+      "doses_taken": 165,
+      "adherence_rate": 68.8
+    },
+    {
+      "patient_id": 21,
+      "name": "Thomas Garcia",
+      "medications": 2,
+      "total_doses": 120,
+      "doses_taken": 81,
+      "adherence_rate": 67.5
+    },
+    {
+      "patient_id": 22,
+      "name": "Karen Moore",
+      "medications": 2,
+      "total_doses": 180,
+      "doses_taken": 138,
+      "adherence_rate": 76.7
+    },
+    {
+      "patient_id": 23,
+      "name": "David Wilson",
+      "medications": 2,
+      "total_doses": 240,
+      "doses_taken": 160,
+      "adherence_rate": 66.7
+    },
+    {
+      "patient_id": 24,
+      "name": "Sandra Jackson",
+      "medications": 2,
+      "total_doses": 180,
+      "doses_taken": 146,
+      "adherence_rate": 81.1
+    },
+    {
+      "patient_id": 25,
+      "name": "Ashley Martin",
+      "medications": 2,
+      "total_doses": 180,
+      "doses_taken": 148,
+      "adherence_rate": 82.2
+    }
+  ]
+}

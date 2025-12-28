@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weekly Medication Summary</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; }
+        .header { text-align: center; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 10px; }
+        .summary-card { background: #f8f9fa; border-radius: 10px; padding: 20px; margin: 20px 0; }
+        .score { font-size: 48px; font-weight: bold; text-align: center; }
+        .excellent { color: #28a745; }
+        .good { color: #17a2b8; }
+        .needs-improvement { color: #ffc107; }
+        .poor { color: #dc3545; }
+        .day-row { display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid #dee2e6; }
+        .day-name { font-weight: bold; }
+        .checkmark { color: #28a745; }
+        .missed { color: #dc3545; }
+        .tips { background: #e7f3ff; padding: 15px; border-radius: 8px; margin: 15px 0; }
+        .cta-button { display: block; background: #667eea; color: white; text-align: center; padding: 15px; border-radius: 8px; text-decoration: none; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📊 Your Weekly Summary</h1>
+        <p>{{week_start}} - {{week_end}}</p>
+    </div>
+    
+    <div class="summary-card">
+        <p style="text-align: center; margin-bottom: 10px;">This Week's Adherence Score</p>
+        <div class="score {{score_class}}">{{weekly_score}}%</div>
+        <p style="text-align: center; color: #6c757d;">{{encouragement_message}}</p>
+    </div>
+    
+    <h3>📅 Daily Breakdown</h3>
+    <div class="summary-card">
+        {{#days}}
+        <div class="day-row">
+            <span class="day-name">{{day_name}}</span>
+            <span>{{doses_taken}}/{{doses_scheduled}} doses</span>
+            <span class="{{status_class}}">{{status_icon}}</span>
+        </div>
+        {{/days}}
+    </div>
+    
+    {{#has_missed}}
+    <h3>⚠️ Commonly Missed</h3>
+    <div class="summary-card">
+        {{#missed_patterns}}
+        <p>• {{medication}} - {{time}} (missed {{count}} times)</p>
+        {{/missed_patterns}}
+    </div>
+    {{/has_missed}}
+    
+    <div class="tips">
+        <h4>💡 Tip of the Week</h4>
+        <p>{{weekly_tip}}</p>
+    </div>
+    
+    {{#has_streak}}
+    <div class="summary-card" style="background: #d4edda; text-align: center;">
+        <h3>🔥 {{streak_days}} Day Streak!</h3>
+        <p>Keep up the great work!</p>
+    </div>
+    {{/has_streak}}
+    
+    <a href="{{app_link}}" class="cta-button">View Full Details →</a>
+    
+    <p style="text-align: center; color: #6c757d; font-size: 12px; margin-top: 30px;">
+        AdherenceGuardian | <a href="{{unsubscribe_link}}">Unsubscribe</a>
+    </p>
+</body>
+</html>

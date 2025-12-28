@@ -1,0 +1,57 @@
+HYPERTENSION MEDICATION MANAGEMENT GUIDELINES
+=============================================
+
+Source: Based on AHA/ACC Hypertension Guidelines
+
+BLOOD PRESSURE TARGETS
+----------------------
+- General population: < 130/80 mmHg
+- Elderly (≥65): < 130/80 mmHg (if tolerated)
+- Diabetes: < 130/80 mmHg
+- CKD: < 130/80 mmHg
+
+ACE INHIBITORS (Lisinopril, Enalapril, Ramipril)
+------------------------------------------------
+- Take at same time daily (morning or bedtime)
+- Dry cough is common side effect (switch to ARB if persistent)
+- Monitor potassium levels
+- Avoid in pregnancy
+- May cause elevated creatinine initially (acceptable if < 30% rise)
+
+ARBs (Losartan, Valsartan, Olmesartan)
+--------------------------------------
+- Alternative to ACE inhibitors (no cough)
+- Take consistently at same time
+- Monitor potassium
+- Avoid in pregnancy
+
+CALCIUM CHANNEL BLOCKERS (Amlodipine, Nifedipine)
+-------------------------------------------------
+- Ankle swelling is common
+- Amlodipine: Take once daily
+- Extended-release: Do not crush or chew
+- Avoid grapefruit juice
+
+THIAZIDE DIURETICS (Hydrochlorothiazide, Chlorthalidone)
+--------------------------------------------------------
+- Take in the morning (to avoid nighttime urination)
+- May deplete potassium - eat potassium-rich foods
+- Stay hydrated
+- Sun sensitivity - use sunscreen
+
+BETA BLOCKERS (Metoprolol, Atenolol, Carvedilol)
+------------------------------------------------
+- Do not stop abruptly (can cause rebound hypertension)
+- Take with food for better absorption
+- May mask hypoglycemia symptoms in diabetics
+- Can cause fatigue, cold extremities
+
+ADHERENCE TIPS FOR HYPERTENSION
+-------------------------------
+1. Hypertension is "silent" - take meds even when feeling fine
+2. Home BP monitoring reinforces importance
+3. Morning dosing often best for once-daily meds
+4. Pill organizers help with complex regimens
+5. Address side effects promptly (don't just stop)
+6. Lifestyle modifications complement medications
+7. Regular follow-up maintains motivation

@@ -1,0 +1,103 @@
+MEDICATION ADHERENCE BEST PRACTICES
+====================================
+
+UNDERSTANDING NON-ADHERENCE
+---------------------------
+Types:
+1. Intentional - Patient decides not to take medication
+2. Unintentional - Forgetting, confusion, inability
+
+Common Barriers:
+- Forgetfulness (most common)
+- Cost/insurance issues
+- Side effects
+- Complex regimens
+- Lack of understanding
+- Health literacy
+- Depression/cognitive issues
+- Cultural beliefs
+
+EVIDENCE-BASED INTERVENTIONS
+----------------------------
+
+1. SIMPLIFICATION
+   - Once-daily dosing when possible
+   - Combination pills
+   - Synchronize refills
+   - Align with daily routines
+
+2. REMINDERS
+   - Phone alarms/apps
+   - Pill organizers (weekly)
+   - Calendar systems
+   - Smart pill bottles
+   - Caregiver reminders
+
+3. EDUCATION
+   - Explain the "why" for each medication
+   - Use teach-back method
+   - Written instructions
+   - Visual aids
+   - Medication lists
+
+4. MONITORING
+   - Regular check-ins
+   - Pill counts
+   - Refill monitoring
+   - Self-monitoring logs
+   - Biomarker tracking (A1C, BP)
+
+5. SUPPORT SYSTEMS
+   - Family involvement
+   - Peer support
+   - Care coordinators
+   - Pharmacist consultations
+
+6. ADDRESSING COST
+   - Generic alternatives
+   - Patient assistance programs
+   - 90-day supplies
+   - Therapeutic alternatives
+   - Manufacturer coupons
+
+MOTIVATIONAL INTERVIEWING TECHNIQUES
+------------------------------------
+- Express empathy
+- Develop discrepancy
+- Roll with resistance
+- Support self-efficacy
+- Ask open-ended questions
+- Affirm patient efforts
+- Reflect back concerns
+- Summarize discussions
+
+RED FLAGS FOR NON-ADHERENCE
+---------------------------
+- Declining refills
+- Missed appointments
+- Uncontrolled disease markers
+- "Pharmacy hopping"
+- Medication confusion
+- Side effect complaints
+- Cost concerns mentioned
+
+SPECIAL POPULATIONS
+-------------------
+Elderly:
+- Simplified regimens
+- Large print labels
+- Easy-open containers
+- Caregiver involvement
+- Cognitive assessment
+
+Low Health Literacy:
+- Plain language
+- Visual aids
+- Teach-back
+- Limit information per visit
+
+Mental Health:
+- Screen for depression
+- Address motivation
+- Routine integration
+- Support systems

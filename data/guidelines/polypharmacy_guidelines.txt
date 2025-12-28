@@ -1,0 +1,67 @@
+POLYPHARMACY MANAGEMENT GUIDELINES
+===================================
+
+DEFINITION
+----------
+Polypharmacy: Use of 5+ medications concurrently
+Hyperpolypharmacy: Use of 10+ medications
+
+RISKS OF POLYPHARMACY
+---------------------
+- Drug-drug interactions
+- Adverse drug events
+- Falls and fractures
+- Cognitive impairment
+- Hospitalization
+- Non-adherence (complexity)
+- Increased costs
+
+DEPRESCRIBING PRINCIPLES
+------------------------
+1. Review all medications regularly
+2. Identify potentially inappropriate medications
+3. Assess benefit vs. risk
+4. Prioritize medications to discontinue
+5. Plan gradual tapering when needed
+6. Monitor after changes
+7. Involve patient in decisions
+
+HIGH-RISK COMBINATIONS
+----------------------
+- Warfarin + NSAIDs (bleeding)
+- ACE-I + Potassium supplements (hyperkalemia)
+- Beta-blockers + Calcium channel blockers (bradycardia)
+- Opioids + Benzodiazepines (respiratory depression)
+- SSRIs + Triptans (serotonin syndrome)
+- Methotrexate + NSAIDs (toxicity)
+- Digoxin + Amiodarone (toxicity)
+
+MEDICATIONS TO AVOID IN ELDERLY (Beers Criteria)
+------------------------------------------------
+- First-generation antihistamines (Diphenhydramine)
+- Benzodiazepines (fall risk)
+- Muscle relaxants
+- Long-acting sulfonylureas
+- Certain anticholinergics
+- NSAIDs (long-term)
+
+MEDICATION RECONCILIATION
+-------------------------
+At every transition of care:
+1. Obtain complete medication list
+2. Include OTC and supplements
+3. Compare with prior lists
+4. Identify discrepancies
+5. Update records
+6. Educate patient
+
+ADHERENCE IN POLYPHARMACY
+-------------------------
+Strategies:
+- Pill organizers (essential)
+- Medication synchronization
+- Combination products
+- Medication therapy management
+- Caregiver involvement
+- Simplify when possible
+- Address one barrier at a time

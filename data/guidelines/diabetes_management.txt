@@ -1,0 +1,51 @@
+DIABETES MEDICATION MANAGEMENT GUIDELINES
+=========================================
+
+Source: Based on American Diabetes Association (ADA) Standards of Care 2024
+
+METFORMIN (First-line therapy)
+------------------------------
+- Take with meals to reduce GI side effects
+- Start low, titrate slowly (500mg once daily → 500mg twice daily → target dose)
+- Target dose: 1500-2000mg/day in divided doses
+- Monitor kidney function (eGFR) annually
+- Hold before contrast procedures if eGFR < 30
+
+SULFONYLUREAS (Glipizide, Glyburide, Glimepiride)
+-------------------------------------------------
+- Take 30 minutes before meals
+- Risk of hypoglycemia - educate patient on symptoms
+- Avoid in elderly or those with irregular meal patterns
+- Monitor blood glucose regularly
+
+SGLT2 INHIBITORS (Empagliflozin, Dapagliflozin)
+-----------------------------------------------
+- Take in the morning (causes increased urination)
+- Stay well hydrated
+- Monitor for genital infections
+- Cardiovascular and renal benefits
+
+GLP-1 RECEPTOR AGONISTS (Semaglutide, Liraglutide)
+--------------------------------------------------
+- Inject subcutaneously, usually once weekly or daily
+- Start at low dose, titrate up
+- Common: nausea (usually improves)
+- Weight loss benefit
+
+INSULIN
+-------
+- Basal insulin: Take at same time daily
+- Rapid-acting: Take with meals
+- Proper storage (refrigerate unopened, room temp when in use)
+- Rotate injection sites
+- Monitor blood glucose
+
+ADHERENCE TIPS FOR DIABETES
+---------------------------
+1. Link medication to daily routines (meals, bedtime)
+2. Use pill organizers for oral medications
+3. Set phone reminders
+4. Keep medications visible (not in cabinets)
+5. Understand WHY each medication is important
+6. Regular A1C monitoring shows medication effectiveness
+7. Address cost concerns - generics available for most

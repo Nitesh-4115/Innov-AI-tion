@@ -1,0 +1,232 @@
+{
+  "chlorthalidone": [
+    "Take with food. Food may increase bioavailability."
+  ],
+  "lorazepam": [
+    "Avoid alcohol.",
+    "Limit caffeine intake.",
+    "Take with food."
+  ],
+  "glimepiride": [
+    "Avoid alcohol. Acute and chronic alcohol intake may unpredictably affect the glucose-lowering action of glimepiride.",
+    "Take with food. The manufacturer recommends administration with the first meal of the day."
+  ],
+  "pregabalin": [
+    "Avoid alcohol. Alcohol may increase CNS effects.",
+    "Take with or without food. Food alters drug absorption, but not to a clinically significant extent."
+  ],
+  "metoprolol": [
+    "Avoid alcohol.",
+    "Avoid natural licorice.",
+    "Take with food."
+  ],
+  "olmesartan": [
+    "Take with or without food. Food does not affect absorption."
+  ],
+  "metformin": [
+    "Avoid alcohol.",
+    "Take with food. Food reduces irritation."
+  ],
+  "olanzapine": [
+    "Avoid alcohol. Alcohol may potentiate CNS adverse effects and orthostatic hypotension.",
+    "Take with or without food. The absorption of olanzapine is unaffected by food."
+  ],
+  "diltiazem": [
+    "Avoid natural licorice. The risk of cardiovascular adverse effects may be increased."
+  ],
+  "mirtazapine": [
+    "Avoid alcohol.",
+    "Take with or without food. Food does not significantly affect absorption."
+  ],
+  "amlodipine": [
+    "Avoid grapefruit products.",
+    "Avoid natural licorice.",
+    "Take with or without food. The absorption is unaffected by food."
+  ],
+  "alprazolam": [
+    "Avoid alcohol. Alcohol may potentiate the CNS depressant effects of this drug.",
+    "Avoid grapefruit products.",
+    "Limit caffeine intake.",
+    "Take with or without food. Food increases the Cmax of extended release alprazolam by 25%, but the AUC and half life are not affected."
+  ],
+  "montelukast": [
+    "Take with or without food. The absorption is unaffected by food."
+  ],
+  "duloxetine": [
+    "Avoid excessive or chronic alcohol consumption. Alcohol increases the risk of liver toxicity.",
+    "Take with or without food. Do not sprinkle the contents of the capsules on food/liquids."
+  ],
+  "ciprofloxacin": [
+    "Avoid milk and dairy products. Dairy products and calcium fortified juices decrease the absorption of ciprofloxacin.",
+    "Limit caffeine intake.",
+    "Take with or without food. The absorption is not significantly affected by food."
+  ],
+  "propranolol": [
+    "Avoid alcohol. Alcohol increases propranolol plasma concentrations.",
+    "Avoid natural licorice. Natural licorice inhibits the metabolism of propranolol, increasing drug exposure.",
+    "Take with food."
+  ],
+  "clonidine": [
+    "Avoid alcohol.",
+    "Take with or without food. The absorption is unaffected by food."
+  ],
+  "enalapril": [
+    "Avoid hypertensive herbs (e.g. bayberry, blue cohosh, cayenne, ephedra, and licorice). Additive hypertensive effects may occur.",
+    "Avoid potassium-containing products. Potassium products increase the risk of hyperkalemia.",
+    "Take with or without food. The absorption is unaffected by food."
+  ],
+  "trazodone": [
+    "Avoid alcohol.",
+    "Avoid St. John's Wort. The risk of serotonin syndrome may be increased.",
+    "Take after a meal. Should be taken shortly after a light meal or snack."
+  ],
+  "verapamil": [
+    "Avoid alcohol. Verapamil significantly inhibits the elimination of alcohol, leading to elevated blood alcohol levels.",
+    "Avoid grapefruit products. Co-administration with grapefruit may significantly increase serum concentrations.",
+    "Take with or without food. Recommendations vary from product to product - consult individual product monographs for additional information."
+  ],
+  "paroxetine": [
+    "Avoid alcohol.",
+    "Take with or without food. Food does not significantly affect absorption."
+  ],
+  "lisinopril": [
+    "Avoid hypertensive herbs (e.g. bayberry, blue cohosh, cayenne, ephedra, and licorice).",
+    "Avoid potassium-containing products. Potassium products increase the risk of hyperkalemia.",
+    "Limit salt intake. Salt may attenuate the antihypertensive effect.",
+    "Take with or without food. The absorption is unaffected by food."
+  ],
+  "risperidone": [
+    "Take with or without food. Food does not affect the rate or extent of absorption."
+  ],
+  "clopidogrel": [
+    "Take with or without food."
+  ],
+  "diazepam": [
+    "Avoid alcohol.",
+    "Take on an empty stomach. Food may decrease absorption and time to therapeutic effect."
+  ],
+  "ondansetron": [
+    "Take with or without food. The absorption is unaffected by food."
+  ],
+  "metronidazole": [
+    "Avoid alcohol. Unpleasant symptoms such as nausea, vomiting, and abdominal distress may occur with alcohol.",
+    "Take with or without food. The extended release formulation should, however, be taken without food."
+  ],
+  "cyclobenzaprine": [
+    "Avoid alcohol. Cyclobenzaprine is a central nervous system depressant which may be potentiated by the co-administration of alcohol."
+  ],
+  "acetylsalicylic acid": [
+    "Avoid alcohol. Alcohol increases the risk of gastrointestinal bleeding.",
+    "Avoid herbs and supplements with anticoagulant/antiplatelet activity. Examples include garlic, ginger, bilberry, danshen, piracetam, and ginkgo biloba.",
+    "Take after a meal. This reduces irritating gastrointestinal effects.",
+    "Take with a full glass of water."
+  ],
+  "methylprednisolone": [
+    "Avoid alcohol.",
+    "Take with food. Food reduces GI irritation."
+  ],
+  "gabapentin": [
+    "Avoid alcohol. Gabapentin possesses CNS depressant activity that may be potentiated by co-administration with alcohol.",
+    "Take with or without food. Co-administration with food slightly alters pharmacokinetics, but not to a clinically significant extent."
+  ],
+  "glyburide": [
+    "Avoid alcohol. Alcohol increases the risk of hypoglycemia.",
+    "Take before a meal. Take 30-60 minutes before breakfast."
+  ],
+  "amoxicillin": [
+    "Take with food."
+  ],
+  "glipizide": [
+    "Avoid excessive or chronic alcohol consumption. The risk of hypoglycemia is increased when alcohol is ingested.",
+    "Take before a meal. Take 30-60 minutes before breakfast."
+  ],
+  "clonazepam": [
+    "Avoid alcohol.",
+    "Limit caffeine intake.",
+    "Take with or without food. The absorption is unaffected by food."
+  ],
+  "atorvastatin": [
+    "Avoid grapefruit products. Grapefruit products may increase the risk for atorvastatin related adverse effects such as myopathy and rhabdomyolysis.",
+    "Take with or without food. Food decreases absorption but not to a clinically significant extent."
+  ],
+  "sertraline": [
+    "Avoid St. John's Wort.",
+    "Take with or without food."
+  ],
+  "nifedipine": [
+    "Avoid excessive or chronic alcohol consumption.",
+    "Avoid grapefruit products. Grapefruit down-regulates post-translational expression of CYP3A4, the major metabolizing enzyme of nifedipine. Grapefruit, in all forms (e.g. whole fruit, juice and rind), can significantly increase serum levels of nifedipine and may cause toxicity. Avoid grapefruit products while on this medication.",
+    "Avoid natural licorice.",
+    "Take with or without food."
+  ],
+  "pioglitazone": [
+    "Take with or without food. Food delays drug absorption, but not to a clinically significant extent."
+  ],
+  "carvedilol": [
+    "Take with food. Food slows the absorption and reduces the incidence of adverse effects."
+  ],
+  "bupropion": [
+    "Avoid alcohol. Co-administration with alcohol may result in neuropsychiatric adverse effects and potentiation of CNS depressant effects.",
+    "Take with or without food. Co-administration with food does not significantly affect pharmacokinetics."
+  ],
+  "escitalopram": [
+    "Avoid alcohol. The combined use of alcohol with psychotropic medications should be avoided.",
+    "Take with or without food. The absorption is unaffected by food."
+  ],
+  "budesonide": [
+    "Take with or without food. Food delays drug absorption, but not to a clinically significant extent."
+  ],
+  "quetiapine": [
+    "Avoid alcohol.",
+    "Take with or without food. If taken with food, take with a light meal."
+  ],
+  "metoclopramide": [
+    "Avoid alcohol.",
+    "Take before a meal. Co-administration with food decreases bioavailability - take 30 minutes before meals."
+  ],
+  "aripiprazole": [
+    "Avoid alcohol. Alcohol may increase CNS effects.",
+    "Drink plenty of fluids. Drink water to avoid dehydration while taking aripiprazole.",
+    "Take with or without food. Food does not affect absorption."
+  ],
+  "sitagliptin": [
+    "Take with or without food."
+  ],
+  "tiotropium": [
+    "Take with or without food. Food is not expected to interfere with absorption."
+  ],
+  "rivaroxaban": [
+    "Avoid herbs and supplements with anticoagulant/antiplatelet activity. Examples include garlic, ginger, bilberry, danshen, piracetam, and ginkgo biloba.",
+    "Avoid St. John's Wort. Co-administration will decrease levels of this medication.",
+    "Take with food. Rivaroxaban 15-20mg dose should be taken with food as food significantly impacts the bioavailability at that dose.",
+    "Take with or without food. Rivaroxaban 10mg dose can be taken with or without food as it does not significantly impact the bioavailability at that dose."
+  ],
+  "dapagliflozin": [
+    "Avoid excessive or chronic alcohol consumption. Binge drinking or drinking alcohol often may predispose patients to ketoacidosis.",
+    "Take with or without food."
+  ],
+  "apixaban": [
+    "Avoid grapefruit products.",
+    "Avoid herbs and supplements with anticoagulant/antiplatelet activity. Examples include garlic, ginger, bilberry, danshen, piracetam, and ginkgo biloba.",
+    "Avoid St. John's Wort. St. John's Wort will decrease levels of this medication.",
+    "Take with or without food."
+  ],
+  "liraglutide": [
+    "Take with or without food."
+  ],
+  "canagliflozin": [
+    "Avoid alcohol. Excess alcohol intake may promote ketoacidosis.",
+    "Drink plenty of fluids.",
+    "Take before a meal. It is recommended to take this drug before the first meal of the day."
+  ],
+  "empagliflozin": [
+    "Take with or without food. Co-administration with food slightly alters pharmacokinetics, but not to a clinically significant extent."
+  ],
+  "semaglutide": [
+    "Take on an empty stomach. For oral use of semaglutide, take 30 minutes before the first meal of the day.",
+    "Take with plain water. For oral use of semaglutide, do not exceed 4 ounces of water (1/2 cup)."
+  ],
+  "dabigatran": [
+    "Avoid herbs and supplements with anticoagulant/antiplatelet activity. Examples include garlic, ginger, bilberry, danshen, piracetam, and ginkgo biloba."
+  ]
+}

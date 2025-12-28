@@ -1,0 +1,26 @@
+--- STANDARD REMINDER ---
+AdherenceGuardian: Time to take {{medication_name}} ({{dosage}}). {{instructions}}
+
+--- GENTLE REMINDER ---
+Hi {{first_name}}! Just a friendly reminder to take your {{medication_name}}. 💊
+
+--- MISSED DOSE ALERT ---
+{{first_name}}, you may have missed your {{medication_name}} scheduled for {{scheduled_time}}. Take it now if appropriate, or skip if close to next dose.
+
+--- REFILL REMINDER ---
+{{first_name}}, your {{medication_name}} supply is running low ({{days_remaining}} days left). Time to refill! 📋
+
+--- CRITICAL MEDICATION ---
+⚠️ IMPORTANT: {{medication_name}} is due now. This medication is critical for {{condition}}. Please take as prescribed.
+
+--- STREAK CELEBRATION ---
+🎉 {{first_name}}, you've taken all your medications on time for {{streak_days}} days! Keep it up!
+
+--- WEEKLY SUMMARY ---
+📊 Your weekly adherence: {{weekly_adherence}}%. {{encouragement}}
+
+--- APPOINTMENT REMINDER ---
+{{first_name}}, reminder: {{appointment_type}} with {{provider_name}} on {{appointment_date}} at {{appointment_time}}.
+
+--- SIDE EFFECT CHECK-IN ---
+Hi {{first_name}}, how are you feeling with {{medication_name}}? Reply with any concerns or "OK" if all is well.

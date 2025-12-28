@@ -1,0 +1,73 @@
+=== BARRIER: FORGETFULNESS ===
+Hi {{first_name}}, we noticed you may have missed some doses recently. Here are some tips that might help:
+
+• Set a daily alarm on your phone for medication times
+• Keep your medications somewhere visible, like next to your toothbrush
+• Use a weekly pill organizer to track what you've taken
+• Try linking your medication to a daily habit, like morning coffee
+
+Would you like me to adjust your reminder schedule? Just let me know what works best for you!
+
+=== BARRIER: SIDE EFFECTS ===
+Hi {{first_name}}, I understand {{medication_name}} may be causing some discomfort. Here's what might help:
+
+• {{side_effect_tip_1}}
+• {{side_effect_tip_2}}
+
+Important: Please don't stop taking your medication without talking to your doctor first. Side effects often improve over time, and there may be alternatives available.
+
+Would you like me to help you prepare a message for your care team about this?
+
+=== BARRIER: COST ===
+Hi {{first_name}}, I understand medication costs can be challenging. Here are some options to explore:
+
+• Ask your pharmacy about generic alternatives for {{medication_name}}
+• Check if you qualify for patient assistance programs
+• Consider 90-day supplies which are often cheaper per dose
+• Ask your doctor about therapeutic alternatives
+
+I can help you find resources. Would you like more information about any of these options?
+
+=== BARRIER: COMPLEXITY ===
+Hi {{first_name}}, managing multiple medications can be overwhelming. Let's simplify:
+
+• You're currently taking {{medication_count}} medications
+• Here's a simplified schedule: {{simplified_schedule}}
+• Consider a pill organizer with compartments for each time of day
+
+Would you like me to create a printable medication schedule for you?
+
+=== BARRIER: LACK OF UNDERSTANDING ===
+Hi {{first_name}}, understanding why we take medications can really help with staying on track. Here's why {{medication_name}} is important:
+
+{{medication_purpose}}
+
+Taking it consistently helps:
+• {{benefit_1}}
+• {{benefit_2}}
+
+Do you have any questions about your medications? I'm here to help explain.
+
+=== GENERAL ENCOURAGEMENT ===
+Hi {{first_name}}! Just checking in. 
+
+Your adherence this week: {{weekly_adherence}}%
+
+{{#good_adherence}}
+Great job staying on track! Your consistency really matters for your health.
+{{/good_adherence}}
+
+{{#needs_improvement}}
+Every dose counts. Even small improvements make a big difference. What can I help with?
+{{/needs_improvement}}
+
+Remember: You're not alone in this journey. Your care team and I are here to support you.
+
+=== STREAK MILESTONE ===
+🎉 Congratulations, {{first_name}}!
+
+You've reached a {{streak_days}}-day streak of perfect medication adherence!
+
+This is a fantastic achievement. Your dedication to your health is inspiring. Keep up the amazing work!
+
+Fun fact: Consistent adherence like yours can {{health_benefit}}.

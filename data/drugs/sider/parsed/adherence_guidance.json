@@ -1,0 +1,6175 @@
+{
+  "quetiapine": {
+    "side_effects": [
+      "Mouth ulceration",
+      "Electrocardiogram QRS complex prolonged",
+      "Vertigo",
+      "Hyperventilation",
+      "Fatal outcomes",
+      "Toothache",
+      "Blood disorder",
+      "Tardive dyskinesia",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Movements involuntary",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Tongue disorder",
+      "Agranulocytosis",
+      "Contusion",
+      "Bruxism",
+      "Nervousness",
+      "Constipation",
+      "Hyperlipidaemia"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000731",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000731",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Mania acute",
+      "Akathisia",
+      "Schizophrenia, Childhood",
+      "Manic",
+      "Bipolar Disorder",
+      "Schizophrenia",
+      "Psychotic Disorders",
+      "Bipolar II disorder",
+      "Extrapyramidal symptoms",
+      "Neutropenia"
+    ],
+    "adherence_tips": [
+      "Take quetiapine with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "theophylline": {
+    "side_effects": [
+      "Haematuria",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Anaphylactoid reaction",
+      "Peptic ulcer",
+      "Convulsions generalised",
+      "Haematemesis",
+      "Respiratory arrest",
+      "Haemodynamic instability",
+      "Nervousness",
+      "Dizziness",
+      "Atrial tachycardia",
+      "Flushing",
+      "Venous thrombosis",
+      "Dermatitis",
+      "Gastric irritation",
+      "Hypotension",
+      "Diuresis",
+      "Tremor muscle",
+      "Abdominal pain upper"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Asthma",
+      "Bronchial Spasm",
+      "Chronic Obstructive Airway Disease",
+      "Asthma chronic",
+      "Lung diseases",
+      "Hyperthyroidism",
+      "Bronchitis, Chronic",
+      "Pulmonary Emphysema"
+    ],
+    "adherence_tips": [
+      "Take theophylline with food to minimize stomach upset",
+      "Take theophylline at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider"
+    ]
+  },
+  "metformin": {
+    "side_effects": [
+      "Azotaemia",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Taste metallic",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Toothache",
+      "Myalgia",
+      "Anorexia",
+      "Blood disorder",
+      "Infestation NOS",
+      "Anaemia megaloblastic",
+      "Ear pain",
+      "Neuropathy",
+      "Oedema peripheral",
+      "Immune system disorder",
+      "Ketonuria",
+      "Contusion",
+      "Function kidney decreased",
+      "Constipation"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013395",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013395",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Metabolic acidosis",
+      "Blood glucose decreased",
+      "Hyperglycemia",
+      "Acidosis, Lactic",
+      "Myocardial Infarction",
+      "Body Weight decreased",
+      "Comatose",
+      "Ketosis",
+      "Diabetes Mellitus, Non-Insulin-Dependent",
+      "Diabetes Mellitus, Insulin-Dependent"
+    ],
+    "adherence_tips": [
+      "Take metformin with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "meloxicam": {
+    "side_effects": [
+      "Mouth ulceration",
+      "Type I hypersensitivity",
+      "Vertigo",
+      "Vision blurred",
+      "Joint related signs and symptoms",
+      "Abdominal discomfort",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Haematuria",
+      "Myalgia",
+      "Blood potassium increased",
+      "Anaphylactic shock",
+      "Melaena",
+      "Pleuritic pain",
+      "Colitis",
+      "Infestation NOS",
+      "Ulcer",
+      "Joint crepitation",
+      "Gastrointestinal haemorrhage",
+      "Affect lability"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Myocardial Infarction",
+      "Degenerative polyarthritis",
+      "Rheumatoid Arthritis",
+      "Gastrointestinal Diseases",
+      "Pain",
+      "Juvenile arthritis",
+      "Cerebrovascular accident",
+      "Arthropathy",
+      "Inflammation"
+    ],
+    "adherence_tips": [
+      "Take meloxicam with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "acetaminophen": {
+    "side_effects": [
+      "Azotaemia",
+      "Hypoalbuminaemia",
+      "Acute hepatic failure",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Bladder neck obstruction",
+      "Dyspnoea",
+      "Hallucination",
+      "Strangury",
+      "Rash macular",
+      "Acute generalised exanthematous pustulosis",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Blood disorder",
+      "Oedema peripheral",
+      "Dystonic reaction",
+      "Renal failure acute",
+      "Pleural effusion",
+      "Disturbance in attention",
+      "Dysphoria"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0002871",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002871",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004936",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004936",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0015967",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0015967",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Sore Throat",
+      "Flu symptoms",
+      "Arthritis",
+      "Headache",
+      "Sinusitis",
+      "Migraine Disorders",
+      "Neuralgia",
+      "Toothache",
+      "Myalgia",
+      "Kidney Failure"
+    ],
+    "adherence_tips": [
+      "Take acetaminophen with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "ibuprofen": {
+    "side_effects": [
+      "Mouth ulceration",
+      "Vertigo",
+      "Hypopnoea",
+      "Blood disorder",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Ulcerative stomatitis",
+      "Sinus bradycardia",
+      "Ecchymosis",
+      "Thrombocytosis",
+      "Agranulocytosis",
+      "Contusion",
+      "Liver disorder",
+      "Bruxism",
+      "Nervousness",
+      "Constipation",
+      "Blood and lymphatic system disorders",
+      "Vasodilation",
+      "Pulmonary hypertension",
+      "Dermatitis"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0001623",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0001623",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002871",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002871",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002871",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002871",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003578",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003578",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004144",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0032326",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Autoimmune Diseases",
+      "Tendinitis",
+      "Sore Throat",
+      "Flu symptoms",
+      "Arthritis",
+      "Headache",
+      "Primary dysmenorrhea",
+      "Neuralgia",
+      "Migraine Disorders",
+      "Ankylosing spondylitis"
+    ],
+    "adherence_tips": [
+      "Take ibuprofen with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "ciprofloxacin": {
+    "side_effects": [
+      "Mouth ulceration",
+      "Vertigo",
+      "Hyperventilation",
+      "Visual colour distortions",
+      "Fatal outcomes",
+      "Instillation site pain",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Ulcerative stomatitis",
+      "Vaginal infection",
+      "Dysaesthesia",
+      "Thrombocytosis",
+      "Tongue disorder",
+      "Agranulocytosis",
+      "Liver disorder",
+      "Bone marrow depression",
+      "Respiratory arrest",
+      "Nervousness",
+      "Constipation",
+      "Lipase increased"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0020452",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0020452",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0033774",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0033774",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0041834",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0041834",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0234215",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0234215",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0332575",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0041834",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Bacteremia",
+      "Renal clearances low",
+      "Gonorrhea",
+      "Congenital glucose-galactose malabsorption",
+      "Nosocomial pneumonia",
+      "Cross resistance",
+      "Corneal Ulcer",
+      "Anthrax disease",
+      "Drug Interactions",
+      "Overgrowth bacterial"
+    ],
+    "adherence_tips": [
+      "Take ciprofloxacin with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "clonazepam": {
+    "side_effects": [
+      "Hysteria",
+      "Eye irritation",
+      "Disinhibition",
+      "Vertigo",
+      "Tooth disorder",
+      "Abdominal discomfort",
+      "Aphonia",
+      "Hunger abnormal",
+      "Vision blurred",
+      "Amnesia",
+      "Candida infection",
+      "Dyspnoea",
+      "Panic reaction",
+      "Hallucination",
+      "Dreaming excessive",
+      "Depression",
+      "Scotoma",
+      "Vivid dreams",
+      "Hyperkinesia",
+      "Chorea"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004134",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004134",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006277",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006277",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009676",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C1443060",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009676",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Absence Epilepsy",
+      "Epilepsies, Partial",
+      "Dyspnea",
+      "Epilepsy, Temporal Lobe",
+      "Derealization",
+      "Has tingling sensation",
+      "Seizures",
+      "Sweating",
+      "Status Epilepticus",
+      "Fear of death"
+    ],
+    "adherence_tips": [
+      "Take clonazepam with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "pregabalin": {
+    "side_effects": [
+      "Rectal disorder",
+      "Disinhibition",
+      "Mouth ulceration",
+      "Laryngospasm",
+      "Vertigo",
+      "Iron deficiency anaemia",
+      "Left ventricular failure",
+      "Hyperventilation",
+      "Congenital arterial malformation",
+      "Action tremor",
+      "Cervix disorder",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Ulcerative stomatitis",
+      "Sinus bradycardia",
+      "Abscess",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Thrombocytosis",
+      "Chondrodystrophy"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000731",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000731",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002170",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002170",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002622",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002622",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002622",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002622",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002622",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002622",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Epilepsy",
+      "Spinal Cord Injuries",
+      "Fibromyalgia",
+      "Renal Insufficiency",
+      "Generalized Anxiety Disorder",
+      "Neuralgia",
+      "Postherpetic neuralgia",
+      "Seizures, Focal",
+      "Diabetic peripheral neuropathy",
+      "Seizures"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "tiotropium": {
+    "side_effects": [
+      "Mouth ulceration",
+      "Type I hypersensitivity",
+      "Intraocular pressure increased",
+      "Vision blurred",
+      "Aneurysm",
+      "Bladder neck obstruction",
+      "Leg pain",
+      "Candida infection",
+      "Oral candidiasis",
+      "Paraesthesia",
+      "Strangury",
+      "Myalgia",
+      "Pharyngolaryngeal pain",
+      "Pharyngo-oral irritation",
+      "Laryngitis",
+      "Application site irritation",
+      "Oedema peripheral",
+      "Ulcerative stomatitis",
+      "Immune system disorder",
+      "Joint swelling"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000924",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000924",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006840",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006840",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0008031",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0008031",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009450",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Bronchial Spasm",
+      "Breast Feeding",
+      "Atrial Fibrillation",
+      "Chronic Obstructive Airway Disease",
+      "Heart Diseases",
+      "Myocardial Infarction",
+      "Dyspnea",
+      "Function kidney decreased",
+      "Heart failure",
+      "Bronchitis, Chronic"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "azithromycin": {
+    "side_effects": [
+      "Mucosal inflammation",
+      "Eye irritation",
+      "Vertigo",
+      "Vision blurred",
+      "Sodium decreased",
+      "Dyspnoea",
+      "Candida infection",
+      "Oral candidiasis",
+      "Infusion site reaction",
+      "Paraesthesia",
+      "Developmental delay",
+      "Hyperkinesia",
+      "Myalgia",
+      "Anorexia",
+      "Blister",
+      "Anaphylactic shock",
+      "Melaena",
+      "Lactic dehydrogenase activity increased",
+      "Haemoglobin decreased",
+      "Instillation site pain"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003123",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0232462",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Bacteremia",
+      "Gonorrhea",
+      "Chancroids",
+      "Cross resistance",
+      "Upper Respiratory Infections",
+      "Bronchitis bacterial",
+      "Acute pharyngitis",
+      "Mycobacterium Infections",
+      "Drug Interactions",
+      "Immunologic Deficiency Syndromes"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "gabapentin": {
+    "side_effects": [
+      "Rectal disorder",
+      "Mouth ulceration",
+      "Vertigo",
+      "Hyperventilation",
+      "Inner ear infection",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Abscess",
+      "Ecchymosis",
+      "Dysaesthesia",
+      "Tongue disorder",
+      "Contusion",
+      "Occipital neuralgia",
+      "Nervousness",
+      "Constipation",
+      "Haematochezia",
+      "Hyperlipidaemia",
+      "Hypercholesterolaemia",
+      "Blood and lymphatic system disorders",
+      "Vasodilation"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002418",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002418",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002418",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002418",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Urinary Incontinence",
+      "Pancreatitis",
+      "Neuralgia",
+      "Postherpetic neuralgia",
+      "Seizures",
+      "Hypersensitivity",
+      "Stevens-Johnson Syndrome",
+      "Renal Insufficiency",
+      "Seizures, Focal",
+      "Ataxia"
+    ],
+    "adherence_tips": [
+      "Take gabapentin with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "metronidazole": {
+    "side_effects": [
+      "Metrorrhagia",
+      "Mucosal inflammation",
+      "Eye irritation",
+      "Vertigo",
+      "Vision blurred",
+      "Vulvovaginal mycotic infection",
+      "Abdominal discomfort",
+      "Taste metallic",
+      "Candida infection",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Sickness",
+      "Skin tightness",
+      "White blood cell count low",
+      "Eruption",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Blood disorder",
+      "Vaginal discharge"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0033774",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0033774",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0236083",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C1963790",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Bacterial Infections",
+      "Amebiasis",
+      "Bacteremia",
+      "Leg Ulcer",
+      "Trichomonas Vaginitis",
+      "Urogenital trichomoniasis",
+      "Ulcerative gingivitis",
+      "Bacterial Vaginosis",
+      "Amebic colitis",
+      "Asymptomatic Infections"
+    ],
+    "adherence_tips": [
+      "Take metronidazole with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "lithium": {
+    "side_effects": [
+      "Psychomotor retardation",
+      "Blacked-out (not amnesia)",
+      "Vertigo",
+      "Vision blurred",
+      "Taste metallic",
+      "Abdominal discomfort",
+      "Dyspnoea",
+      "Glycosuria",
+      "Hyperventilation",
+      "Polydipsia",
+      "Hallucination",
+      "Scotoma",
+      "Hyperkinesia",
+      "Anorexia",
+      "Nephropathy toxic",
+      "Lip swelling",
+      "Congenital limb hyperextension",
+      "Oedema peripheral",
+      "Lithium poisoning",
+      "Tremor fine"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Depression, Bipolar",
+      "Delusion of grandeur",
+      "Bipolar I disorder",
+      "Diuresis",
+      "Pressure of speech",
+      "Flight of ideas",
+      "Lithium poisoning",
+      "Mania acute",
+      "Hypomania",
+      "Manic"
+    ],
+    "adherence_tips": [
+      "Take lithium with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "pravastatin": {
+    "side_effects": [
+      "Systemic lupus erythematosus",
+      "Vertigo",
+      "Vision blurred",
+      "Polymyalgia",
+      "Amnesia",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Depression",
+      "Tenderness",
+      "Abnormalities of the hair",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Pain localised",
+      "Dermatomyositis",
+      "Affect lability",
+      "Ache",
+      "Neuropathy",
+      "Pharyngitis",
+      "Renal failure acute"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000731",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000731",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Myocardial Infarction",
+      "Cardiovascular Diseases",
+      "Serum cholesterol normal",
+      "Hypertensive disease",
+      "Peripheral Vascular Diseases",
+      "Hypothyroidism",
+      "Carotid Artery Diseases",
+      "Coronary Arteriosclerosis",
+      "Transient Ischemic Attack",
+      "Diabetic"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "amlodipine": {
+    "side_effects": [
+      "Vertigo",
+      "Amnesia",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Myalgia",
+      "Anorexia",
+      "Affect lability",
+      "Oedema peripheral",
+      "Purpura",
+      "Immune system disorder",
+      "Abnormal dreams",
+      "Ataxia",
+      "Skin cold clammy",
+      "Nervousness",
+      "Diabetes mellitus",
+      "Constipation",
+      "Dizziness",
+      "Hepatitis",
+      "Flushing",
+      "Blood and lymphatic system disorders"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Myocardial Infarction",
+      "Total Peripheral Resistance",
+      "Hypertensive disease",
+      "Peripheral Vascular Diseases",
+      "Heart failure",
+      "Myocardial Ischemia",
+      "Chronic Obstructive Airway Disease",
+      "Congestive heart failure",
+      "ST segment depression (finding)",
+      "Angina Pectoris"
+    ],
+    "adherence_tips": [
+      "Take amlodipine with food to minimize stomach upset",
+      "Take amlodipine at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider"
+    ]
+  },
+  "dapagliflozin": {
+    "side_effects": [
+      "Vulvovaginal mycotic infection",
+      "Anaphylactic shock",
+      "Infestation NOS",
+      "Penile infection",
+      "Vaginal infection",
+      "Carcinogenicity",
+      "Genital infection fungal",
+      "Diabetes mellitus",
+      "Constipation",
+      "Dizziness",
+      "Dyslipidaemia",
+      "Drug-induced hepatitis",
+      "Malnutrition",
+      "Balanitis candida",
+      "Dermatitis",
+      "Blood urea increased",
+      "Hypotension",
+      "Diuresis",
+      "Serum creatinine increased",
+      "Headache"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0021400",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0021400",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027441",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027441",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027497",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027497",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Communicable Diseases",
+      "Cardiovascular Diseases",
+      "Renal Insufficiency",
+      "Diabetes Mellitus, Non-Insulin-Dependent",
+      "Genital infection",
+      "Genital infection fungal",
+      "Recurrent urinary tract infection"
+    ],
+    "adherence_tips": [
+      "Take dapagliflozin with food to minimize stomach upset",
+      "Take dapagliflozin at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Stay well hydrated to help prevent headaches",
+      "Set a daily reminder to take your medication at the same time each day"
+    ]
+  },
+  "hydrochlorothiazide": {
+    "side_effects": [
+      "Vertigo",
+      "Vision blurred",
+      "Dyspnoea",
+      "Leg pain",
+      "Glycosuria",
+      "Paraesthesia",
+      "Toothache",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Shoulder pain",
+      "Pneumonia",
+      "Purpura",
+      "Sinus bradycardia",
+      "Ecchymosis",
+      "Agranulocytosis",
+      "Ataxia",
+      "Joint swelling",
+      "Airway obstruction NOS",
+      "Nervousness"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013604",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Kidney Failure, Chronic",
+      "Cardiovascular Diseases",
+      "Hypertensive disease",
+      "Fluid overload",
+      "Obesity",
+      "Eclampsia",
+      "Liver Cirrhosis",
+      "Congestive heart failure",
+      "Hyperkalemia",
+      "Nephrotic Syndrome"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "amoxicillin": {
+    "side_effects": [
+      "Vulvovaginal mycotic infection",
+      "Candida infection",
+      "Hyperkinesia",
+      "Acute generalised exanthematous pustulosis",
+      "Anaphylactic shock",
+      "Colitis",
+      "Infestation NOS",
+      "Immune system disorder",
+      "Agranulocytosis",
+      "Convulsive seizure",
+      "Dizziness",
+      "Hepatitis",
+      "Blood and lymphatic system disorders",
+      "Clostridium difficile colitis",
+      "Stomatitis",
+      "Dermatitis",
+      "Antibiotic associated colitis",
+      "Allergic cutaneous angiitis",
+      "Thrombocytopenia",
+      "Haemolytic anaemia"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Bacteremia",
+      "Gonorrhea",
+      "Infectious Mononucleosis",
+      "Urticaria",
+      "Hypersensitivity",
+      "Asthma",
+      "Communicable Diseases",
+      "Renal Insufficiency",
+      "Duodenal Ulcer",
+      "Tonsillitis"
+    ],
+    "adherence_tips": [
+      "Take amoxicillin at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "ipratropium": {
+    "side_effects": [
+      "Eye irritation",
+      "Intraocular pressure increased",
+      "Type I hypersensitivity",
+      "Laryngospasm",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Numbness in leg",
+      "Flu symptoms",
+      "Conjunctival hyperaemia",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Developmental delay",
+      "Myalgia",
+      "Anaphylactic shock",
+      "Ulcer",
+      "Lung disorder",
+      "Corneal oedema",
+      "Tongue disorder",
+      "Immune system disorder",
+      "Pharyngeal oedema"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006277",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006277",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013395",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013395",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Asthma",
+      "Bronchial Spasm",
+      "Glaucoma",
+      "Chronic Obstructive Airway Disease",
+      "Sneezing",
+      "Rhinorrhea",
+      "Common Cold",
+      "Bronchitis, Chronic",
+      "Pulmonary Emphysema",
+      "Reversible airways obstruction"
+    ],
+    "adherence_tips": [
+      "Take ipratropium with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "apixaban": {
+    "side_effects": [
+      "Metrorrhagia",
+      "Anal haemorrhage",
+      "Haemoptysis",
+      "Wound secretion",
+      "Haematuria",
+      "Anaphylactic shock",
+      "Melaena",
+      "Muscle haemorrhage",
+      "Intra-abdominal haemorrhage",
+      "Gastrointestinal haemorrhage",
+      "Blood urine",
+      "Blood bilirubin increased",
+      "Ecchymosis",
+      "Subarachnoid haemorrhage",
+      "Immune system disorder",
+      "Haemorrhagic stroke",
+      "Contusion",
+      "Vessel puncture site haematoma",
+      "Skin haemorrhage",
+      "Haematemesis"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0009938",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009938",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0014591",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0014591",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0017565",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0017565",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018944",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018944",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018965",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018965",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Atrial Fibrillation",
+      "Thromboembolic event",
+      "Hypertensive disease",
+      "Heart failure",
+      "Cerebrovascular accident",
+      "Deep Vein Thrombosis",
+      "Pulmonary Embolism",
+      "Embolism",
+      "Diabetes Mellitus"
+    ],
+    "adherence_tips": [
+      "Take apixaban with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "ranitidine": {
+    "side_effects": [
+      "Vertigo",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Dyspnoea",
+      "Hallucination",
+      "Myalgia",
+      "Anaphylactic shock",
+      "Blood disorder",
+      "Nephropathy toxic",
+      "Shoulder pain",
+      "Pneumonia",
+      "Foetor hepaticus",
+      "Movements involuntary",
+      "Pancreatitis acute",
+      "Agranulocytosis",
+      "Liver disorder",
+      "Bone marrow depression",
+      "Haematemesis",
+      "Constipation",
+      "Dizziness"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Acid indigestion",
+      "Zollinger-Ellison syndrome",
+      "gastrointestinal symptom",
+      "Obesity",
+      "Upper gastrointestinal hemorrhage",
+      "Peptic Esophagitis",
+      "Gastroesophageal reflux disease",
+      "Mendelson Syndrome",
+      "Esophagitis",
+      "Communicable Diseases"
+    ],
+    "adherence_tips": [
+      "Take ranitidine with food to minimize stomach upset",
+      "Take ranitidine at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider"
+    ]
+  },
+  "lisinopril": {
+    "side_effects": [
+      "Azotaemia",
+      "Vertigo",
+      "Vision blurred",
+      "Haemoptysis",
+      "Dyspnoea",
+      "Leg pain",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Haematuria",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Shoulder pain",
+      "Laryngitis",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Pharyngitis",
+      "Renal failure acute",
+      "Persistent foetal circulation"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0008031",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0008031",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009443",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027441",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0035455",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Myocardial Infarction",
+      "Hypertension, Renovascular",
+      "Coughing",
+      "Hypertensive disease",
+      "Heart failure",
+      "Diabetic",
+      "Kidney Failure",
+      "Ventricular arrhythmia",
+      "Reflex tachycardia",
+      "Congestive heart failure"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "fluoxetine": {
+    "side_effects": [
+      "Breast engorgement",
+      "Mouth ulceration",
+      "Blacked-out (not amnesia)",
+      "Vertigo",
+      "Iron deficiency anaemia",
+      "Hyperventilation",
+      "Fatal outcomes",
+      "Blood disorder",
+      "Tardive dyskinesia",
+      "Eosinophilic pneumonia",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Clonic convulsion",
+      "Thrombocytosis",
+      "Chondrodystrophy",
+      "Tongue disorder",
+      "Langerhans' cell histiocytosis",
+      "Bruxism"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Depressive disorder",
+      "Obsessive compulsive behavior",
+      "Obsessive-Compulsive Disorder",
+      "Dyspnea",
+      "Headache",
+      "Reduced interest in usual activities",
+      "Binge eating disorder",
+      "Drug Interactions",
+      "Gilles de la Tourette syndrome",
+      "Mood Disorders"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "atenolol": {
+    "side_effects": [
+      "Systemic lupus erythematosus",
+      "Laryngospasm",
+      "Vertigo",
+      "Abdominal discomfort",
+      "Vision blurred",
+      "Dyspnoea",
+      "Leg pain",
+      "Left ventricular failure",
+      "Amnesia",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Vivid dreams",
+      "Anorexia",
+      "Aggression",
+      "Affect lability",
+      "Ache",
+      "Purpura",
+      "Agranulocytosis",
+      "Peripheral coldness"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0011570",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011570",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011570",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011570",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Myocardial Infarction",
+      "Cardiac Arrhythmia",
+      "Hypertensive disease",
+      "Systolic hypertension",
+      "Heart failure",
+      "Myocardial Ischemia",
+      "Coronary Arteriosclerosis",
+      "Tachycardia",
+      "Ventricular arrhythmia",
+      "Asthma"
+    ],
+    "adherence_tips": [
+      "Take atenolol with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "atorvastatin": {
+    "side_effects": [
+      "Metrorrhagia",
+      "Mouth ulceration",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Amnesia",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Proctalgia",
+      "Haematuria",
+      "Hyperkinesia",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Melaena",
+      "Tenosynovitis",
+      "Neck stiffness",
+      "Pharyngolaryngeal pain",
+      "Calculus of kidney",
+      "Colitis",
+      "Infestation NOS"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Myocardial Infarction",
+      "High density lipoprotein decreased",
+      "Obesity, Abdominal",
+      "Cardiovascular Diseases",
+      "Hypertensive disease",
+      "Peripheral Vascular Diseases",
+      "Hypothyroidism",
+      "Carotid Artery Diseases",
+      "Behavior showing increased motor activity",
+      "Homozygous familial hypercholesterolaemia"
+    ],
+    "adherence_tips": [
+      "Take atorvastatin with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "risperidone": {
+    "side_effects": [
+      "Breast engorgement",
+      "Mouth ulceration",
+      "Laryngospasm",
+      "Vertigo",
+      "Hyperventilation",
+      "Toothache",
+      "Blood disorder",
+      "Serum prolactin increased",
+      "Blood antidiuretic hormone abnormal",
+      "Tardive dyskinesia",
+      "Lip swelling",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Ulcerative stomatitis",
+      "Sinus bradycardia",
+      "Abscess",
+      "Vaginal infection",
+      "Tongue disorder",
+      "Agranulocytosis",
+      "Diabetes mellitus exacerbated"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Pituitary Neoplasms",
+      "Mania acute",
+      "Manic",
+      "Violence",
+      "Schizophrenia and other psychotic disorders",
+      "Bipolar Disorder",
+      "Aggressive behavior",
+      "Parkinson Disease",
+      "Schizophrenia",
+      "Distractibility"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "methylprednisolone": {
+    "side_effects": [
+      "Neuropathic arthropathy",
+      "Intraocular pressure increased",
+      "Vertigo",
+      "Carbohydrate tolerance decreased",
+      "Amnesia",
+      "Glycosuria",
+      "Hallucination",
+      "Paraesthesia",
+      "Alkalosis hypokalaemic",
+      "Injection site exfoliation",
+      "Myalgia",
+      "Malaise and fatigue",
+      "Necrosis",
+      "Anaphylactic shock",
+      "Miliaria",
+      "Infestation NOS",
+      "Ulcer",
+      "Affect lability",
+      "Neuropathy",
+      "Oedema peripheral"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Polymyalgia",
+      "Exfoliative dermatitis",
+      "Contact Dermatitis",
+      "Tenosynovitis",
+      "Stevens-Johnson Syndrome",
+      "Dermatomyositis",
+      "Pneumonia",
+      "Uveitis",
+      "Seborrheic dermatitis",
+      "Lichen Planus"
+    ],
+    "adherence_tips": [
+      "Take methylprednisolone at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "olanzapine": {
+    "side_effects": [
+      "Mouth ulceration",
+      "Vertigo",
+      "Hyperventilation",
+      "Mixed liver injury",
+      "Toothache",
+      "Serum prolactin increased",
+      "Tardive dyskinesia",
+      "Blood pressure systolic decreased",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Thrombocytosis",
+      "Tongue disorder",
+      "Liver disorder",
+      "Nervousness",
+      "Constipation",
+      "Hyperlipidaemia",
+      "Blood and lymphatic system disorders",
+      "Hypercholesterolaemia"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002418",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Movement Disorders",
+      "Mania acute",
+      "Schizophrenia, Childhood",
+      "Manic",
+      "Behavior showing increased motor activity",
+      "Bipolar Disorder",
+      "Schizophrenia",
+      "Psychotic Disorders",
+      "Weight Gain",
+      "Extrapyramidal symptoms"
+    ],
+    "adherence_tips": [
+      "Take olanzapine with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "valsartan": {
+    "side_effects": [
+      "Vertigo",
+      "Vision blurred",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Myalgia",
+      "Blood potassium increased",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Infestation NOS",
+      "Renal failure acute",
+      "Immune system disorder",
+      "Serum potassium increased",
+      "Constipation",
+      "Dizziness",
+      "Hepatitis",
+      "Blood and lymphatic system disorders",
+      "Bronchitis",
+      "Malnutrition",
+      "Muscle spasms",
+      "Dermatitis"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Hypertensive (finding)",
+      "Myocardial Infarction",
+      "Kidney Diseases",
+      "Hypotension",
+      "Hypertensive disease",
+      "Essential Hypertension",
+      "Cardiac failure chronic",
+      "Heart failure",
+      "Angina Pectoris",
+      "Ventricular Dysfunction, Left"
+    ],
+    "adherence_tips": [
+      "Take valsartan with food to minimize stomach upset",
+      "Take valsartan at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider"
+    ]
+  },
+  "rosuvastatin": {
+    "side_effects": [
+      "Amnesia",
+      "Paraesthesia",
+      "Depression",
+      "Haematuria",
+      "Myalgia",
+      "Blood disorder",
+      "Renal failure acute",
+      "Diabetes mellitus",
+      "Constipation",
+      "Dizziness",
+      "Hepatitis",
+      "Bronchitis",
+      "Dermatitis",
+      "Thrombocytopenia",
+      "Pain",
+      "Musculoskeletal discomfort",
+      "Arrhythmia",
+      "Flatulence",
+      "Headache",
+      "Rhabdomyolysis"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Atherosclerosis",
+      "Hyperlipoproteinemia Type III",
+      "Hypertriglyceridemia",
+      "Myocardial Infarction",
+      "Cardiovascular Diseases",
+      "Alcoholic Intoxication, Chronic",
+      "Hypercholesterolemia, Familial",
+      "Hypothyroidism",
+      "Hypercholesterolemia",
+      "Hyperlipidemia"
+    ],
+    "adherence_tips": [
+      "Take rosuvastatin with food to minimize stomach upset",
+      "Take rosuvastatin at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Stay well hydrated to help prevent headaches",
+      "Set a daily reminder to take your medication at the same time each day"
+    ]
+  },
+  "glimepiride": {
+    "side_effects": [
+      "Vision blurred",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Hypopnoea",
+      "Eruption",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Aggression",
+      "Gastrointestinal fullness",
+      "Porphyria cutanea tarda",
+      "Disturbance in attention",
+      "Agranulocytosis",
+      "Nervousness",
+      "Erythropenia",
+      "Diabetes mellitus",
+      "Dizziness",
+      "Hepatitis",
+      "Erythema",
+      "Vasodilation",
+      "Malnutrition"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Hypoglycemia",
+      "Retinal Diseases",
+      "Blood glucose decreased",
+      "Hyperglycemia",
+      "Kidney Diseases",
+      "Neuropathy",
+      "Body Weight decreased",
+      "Comatose",
+      "Diabetes Mellitus, Non-Insulin-Dependent",
+      "Diabetes Mellitus, Insulin-Dependent"
+    ],
+    "adherence_tips": [
+      "Take glimepiride at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "cyclobenzaprine": {
+    "side_effects": [
+      "Vertigo",
+      "Vision blurred",
+      "Dyspnoea",
+      "Paranoia",
+      "Hallucination",
+      "Paraesthesia",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Aggression",
+      "Excitement",
+      "Purpura",
+      "Drug withdrawal syndrome",
+      "Disturbance in attention",
+      "Tongue disorder",
+      "Agranulocytosis",
+      "Bone marrow depression",
+      "Ataxia",
+      "Testicular swelling",
+      "Dysarthria"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013144",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C2830004",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013395",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013395",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0015672",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Muscle Spasticity",
+      "Spinal Cord Diseases",
+      "Sore to touch",
+      "Cerebral Palsy",
+      "CNS disorder",
+      "Pain",
+      "Spasm"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "empagliflozin": {
+    "side_effects": [
+      "Tight foreskin",
+      "Blood creatinine increased",
+      "Vulvitis",
+      "Vulvovaginal mycotic infection",
+      "Urinary tract disorder",
+      "Pollakiuria",
+      "Balanitis",
+      "Orthostatic hypotension",
+      "Urethral disorder",
+      "Polydipsia",
+      "Phimosis",
+      "Urinary tract infection",
+      "Thirst",
+      "Angiopathy",
+      "Cystitis",
+      "Blood pressure systolic decreased",
+      "Infestation NOS",
+      "Nocturia",
+      "Nausea",
+      "Infestation"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027497",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027497",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0041912",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0041912",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0042029",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0042029",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0242339",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Hypoglycemia",
+      "Renal Insufficiency",
+      "Diabetes Mellitus, Non-Insulin-Dependent",
+      "Recurrent urinary tract infection"
+    ],
+    "adherence_tips": [
+      "Take empagliflozin with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "alprazolam": {
+    "side_effects": [
+      "Psychomotor retardation",
+      "Intraocular pressure increased",
+      "Disinhibition",
+      "Vertigo",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Amnesia",
+      "Dyspnoea",
+      "Hyperventilation",
+      "Panic reaction",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Strangury",
+      "Myalgia",
+      "Anorexia",
+      "Pharyngolaryngeal pain",
+      "Aggression",
+      "Infestation NOS",
+      "Affect lability"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0003123",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0232462",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Phobia, Social",
+      "Substance abuse problem",
+      "Diarrhea",
+      "Dyspnea",
+      "Derealization",
+      "Hyperthyroidism",
+      "Post-Traumatic Stress Disorder",
+      "Has tingling sensation",
+      "Tachycardia",
+      "Sweating"
+    ],
+    "adherence_tips": [
+      "Take alprazolam with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "duloxetine": {
+    "side_effects": [
+      "Vertigo",
+      "Blood disorder",
+      "Oedema peripheral",
+      "Ecchymosis",
+      "Contusion",
+      "Bruxism",
+      "Nervousness",
+      "Constipation",
+      "Haematochezia",
+      "Hyperlipidaemia",
+      "Hypercholesterolaemia",
+      "Blood and lymphatic system disorders",
+      "Low back pain",
+      "Liver injury",
+      "Dermatitis",
+      "Hot flush",
+      "Thrombocytopenia",
+      "Malaise",
+      "Suicidal behaviour",
+      "Headache"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003123",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0232462",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Depressive disorder",
+      "Neuralgia",
+      "Urologic Diseases",
+      "Diabetic",
+      "Hypersensitivity",
+      "Major depressive disorder, single episode",
+      "Suicide attempt",
+      "Hypersomnia",
+      "Unable to concentrate",
+      "Anxiety Disorders"
+    ],
+    "adherence_tips": [
+      "Take duloxetine with food to minimize stomach upset",
+      "Stay well hydrated to help prevent headaches",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "venlafaxine": {
+    "side_effects": [
+      "Breast engorgement",
+      "Rectal disorder",
+      "Mouth ulceration",
+      "Laryngospasm",
+      "Vertigo",
+      "Hyperventilation",
+      "Panic reaction",
+      "Blood disorder",
+      "Tardive dyskinesia",
+      "Pneumonia",
+      "Movements involuntary",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Dysphoria",
+      "Thrombocytosis",
+      "Tongue disorder",
+      "Agranulocytosis",
+      "Bruxism",
+      "Nervousness",
+      "Constipation"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003123",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Phobia, Social",
+      "Dyspnea",
+      "Social fear",
+      "Derealization",
+      "Sexual Dysfunction",
+      "Has tingling sensation",
+      "Sweating",
+      "Fear of death",
+      "Major depressive disorder, single episode",
+      "Performance anxiety"
+    ],
+    "adherence_tips": [
+      "Take venlafaxine with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "trazodone": {
+    "side_effects": [
+      "Vertigo",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Amnesia",
+      "Dyspnoea",
+      "Paranoia",
+      "Hallucination",
+      "Paraesthesia",
+      "Vivid dreams",
+      "Haematuria",
+      "Myalgia",
+      "Eruption",
+      "Anorexia",
+      "Excitement",
+      "Tardive dyskinesia",
+      "Suicide attempt",
+      "Ache",
+      "Methaemoglobinaemia",
+      "Sinus bradycardia",
+      "Suicide"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0002957",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002957",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002957",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002957",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009676",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C1443060",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009676",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009676",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Major Depressive Disorder",
+      "Depressive disorder",
+      "Thought retardation",
+      "Anxiety",
+      "Guilt",
+      "Unable to concentrate",
+      "Drug Interactions",
+      "Dysphoria",
+      "Decreased interest",
+      "Sexual Dysfunction"
+    ],
+    "adherence_tips": [
+      "Take trazodone with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "pantoprazole": {
+    "side_effects": [
+      "Rectal disorder",
+      "Mouth ulceration",
+      "Vertigo",
+      "Iron deficiency anaemia",
+      "Toothache",
+      "Blood disorder",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Abscess",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Agranulocytosis",
+      "Contusion",
+      "Heat stroke",
+      "Nervousness",
+      "Constipation",
+      "Hyperlipidaemia",
+      "Blood and lymphatic system disorders",
+      "Hypercholesterolaemia",
+      "Vasodilation"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Regurgitation",
+      "Communicable Diseases",
+      "Erosive esophagitis",
+      "Gastrointestinal Diseases",
+      "Heartburn",
+      "Ulcer",
+      "Zollinger-Ellison syndrome",
+      "Duodenal Ulcer",
+      "Dyspeptic signs and symptoms",
+      "Dyspepsia"
+    ],
+    "adherence_tips": [
+      "Take pantoprazole with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "doxycycline": {
+    "side_effects": [
+      "Systemic lupus erythematosus",
+      "Tooth disorder",
+      "Vulvovaginal mycotic infection",
+      "Abdominal discomfort",
+      "Flu symptoms",
+      "Dyspnoea",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Tenderness",
+      "Premenstrual tension",
+      "Toothache",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Rash morbilliform",
+      "Pharyngolaryngeal pain",
+      "Nephropathy toxic",
+      "Ulcer",
+      "Shoulder pain"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006277",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006277",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009443",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Bacterial Infections",
+      "Furunculosis",
+      "Wound sepsis",
+      "Gonorrhea",
+      "Chancroids",
+      "Rocky Mountain Spotted Fever",
+      "Upper Respiratory Infections",
+      "Amebic colitis",
+      "Sinusitis",
+      "Anthrax disease"
+    ],
+    "adherence_tips": [
+      "Take doxycycline with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "dabigatran": {
+    "side_effects": [
+      "Abdominal discomfort",
+      "Haemoptysis",
+      "Dyspnoea",
+      "Wound secretion",
+      "Fatal outcomes",
+      "Haematuria",
+      "Anaphylactic shock",
+      "Haemoglobin decreased",
+      "Haemorrhagic erosive gastritis",
+      "Gastrointestinal ulcer",
+      "Infestation NOS",
+      "Gastrointestinal haemorrhage",
+      "Pneumonia",
+      "Wound",
+      "Oedema peripheral",
+      "Blood bilirubin increased",
+      "Ecchymosis",
+      "Subarachnoid haemorrhage",
+      "Immune system disorder",
+      "Haemorrhagic stroke"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0518015",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0518015",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0518015",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Atrial Fibrillation",
+      "Thromboembolic event",
+      "Cerebrovascular accident",
+      "Deep Vein Thrombosis",
+      "Pulmonary Embolism",
+      "Embolism"
+    ],
+    "adherence_tips": [
+      "Take dabigatran with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "sitagliptin": {
+    "side_effects": [
+      "Retching",
+      "Vertigo",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Depression",
+      "Toothache",
+      "Myalgia",
+      "Anaphylactic shock",
+      "Pharyngolaryngeal pain",
+      "Tooth infection",
+      "Infestation NOS",
+      "Shoulder pain",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Renal failure acute",
+      "Lung disorder",
+      "Immune system disorder",
+      "Pancreatitis acute",
+      "Contusion",
+      "Nervousness"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0018681",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018681",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018681",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018681",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018681",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018681",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027441",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027441",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027441",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027441",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Hypoglycemia",
+      "Renal Insufficiency",
+      "Diabetes Mellitus, Non-Insulin-Dependent",
+      "Pancreatitis",
+      "Reactive hypoglycemia",
+      "Diabetes Mellitus, Insulin-Dependent",
+      "Chronic Kidney Insufficiency",
+      "Diabetic Ketoacidosis"
+    ],
+    "adherence_tips": [
+      "Take sitagliptin with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "citalopram": {
+    "side_effects": [
+      "Joint injury",
+      "Disinhibition",
+      "Mouth ulceration",
+      "Vertigo",
+      "Hyperventilation",
+      "Panic reaction",
+      "Abortion spontaneous",
+      "Toothache",
+      "House dust allergy",
+      "Vaginitis atrophic",
+      "Tardive dyskinesia",
+      "Arthropod sting",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Ulcerative stomatitis",
+      "Sinus bradycardia",
+      "Abscess",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Clonic convulsion"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003123",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0232462",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003123",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0232462",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Phobia, Social",
+      "Cerebral Infarction",
+      "Subarachnoid Hemorrhage",
+      "Depressive disorder",
+      "Obsessive compulsive behavior",
+      "Obsessive-Compulsive Disorder",
+      "Suicidal behaviour",
+      "Amnesia",
+      "Akathisia",
+      "Aggressive behavior"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "methimazole": {
+    "side_effects": [
+      "Jaundice",
+      "Pigmentation disorder",
+      "Vertigo",
+      "Headache",
+      "Urticaria",
+      "Oedema",
+      "Paraesthesia",
+      "Myalgia",
+      "Rash",
+      "Pigmentation skin",
+      "Nausea",
+      "Alopecia",
+      "Pruritus",
+      "Arthralgia",
+      "Dyspepsia",
+      "Agranulocytosis",
+      "Neuropathy peripheral",
+      "Leukopenia",
+      "Neuritis",
+      "Hepatitis"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Hyperthyroidism",
+      "Toxic multinodular goiter",
+      "Graves Disease"
+    ],
+    "adherence_tips": [
+      "Take methimazole with food to minimize stomach upset",
+      "Stay well hydrated to help prevent headaches",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "warfarin": {
+    "side_effects": [
+      "Dyspnoea",
+      "Paraesthesia",
+      "Haematuria",
+      "Anaphylactic shock",
+      "Melaena",
+      "Haemoglobin decreased",
+      "Temperature intolerance",
+      "Ulcer",
+      "Gastrointestinal haemorrhage",
+      "Ecchymosis",
+      "Immune system disorder",
+      "Haematemesis",
+      "Dizziness",
+      "Hepatitis",
+      "Liver injury",
+      "Muscle spasms",
+      "Dermatitis",
+      "Hepatitis cholestatic",
+      "Hypotension",
+      "Rectal haemorrhage"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Myocardial Infarction",
+      "Blood coagulation",
+      "Venous Thrombosis",
+      "Pulmonary Embolism",
+      "Kidney Failure",
+      "Congestive heart failure",
+      "Renal Insufficiency",
+      "Hemorrhage",
+      "Thromboembolic event",
+      "Embolism"
+    ],
+    "adherence_tips": [
+      "Take warfarin at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "diltiazem": {
+    "side_effects": [
+      "Eye irritation",
+      "Vertigo",
+      "Tooth disorder",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Amnesia",
+      "Dyspnoea",
+      "Hallucination",
+      "Paraesthesia",
+      "Myalgia",
+      "Acute generalised exanthematous pustulosis",
+      "Anorexia",
+      "Hypotension asymptomatic",
+      "Neck stiffness",
+      "Calculus of kidney",
+      "Colitis",
+      "Left ventricular dysfunction",
+      "Gastrointestinal haemorrhage",
+      "Affect lability",
+      "Ear pain"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Total Peripheral Resistance",
+      "Cardiac Arrhythmia",
+      "Hypertensive disease",
+      "Sinus rhythm",
+      "Excitable",
+      "Diabetic",
+      "Tachycardia",
+      "Exercise-induced angina",
+      "Paroxysmal supraventricular tachycardia",
+      "Angina Pectoris"
+    ],
+    "adherence_tips": [
+      "Take diltiazem with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "rivaroxaban": {
+    "side_effects": [
+      "Haemoptysis",
+      "Dyspnoea",
+      "Wound secretion",
+      "Fatal outcomes",
+      "Haematuria",
+      "Toothache",
+      "Anaphylactic shock",
+      "Blister",
+      "Muscle haemorrhage",
+      "Lactic dehydrogenase activity increased",
+      "Bronchiectasis",
+      "Infestation NOS",
+      "Gastrointestinal haemorrhage",
+      "Blood bilirubin increased",
+      "Renal failure acute",
+      "Ecchymosis",
+      "Thrombocytosis",
+      "Immune system disorder",
+      "Agranulocytosis",
+      "Contusion"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013395",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013395",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0015672",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0015672",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0518015",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Atrial Fibrillation",
+      "Hypertensive disease",
+      "Cerebrovascular accident",
+      "Deep Vein Thrombosis",
+      "Pulmonary Embolism",
+      "Embolism",
+      "Acute Coronary Syndrome"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "naproxen": {
+    "side_effects": [
+      "Lichen planus",
+      "Rectal disorder",
+      "Mouth ulceration",
+      "Vertigo",
+      "Blood disorder",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Ulcerative stomatitis",
+      "Abscess",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Agranulocytosis",
+      "Nervousness",
+      "Constipation",
+      "Haematochezia",
+      "Blood and lymphatic system disorders",
+      "Hypercholesterolaemia",
+      "Vasodilation",
+      "Dermatitis",
+      "Erythema nodosum"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009450",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009450",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0015967",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0015967",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0030193",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0030193",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Subacromial bursitis",
+      "Tendinitis",
+      "Traumatic injury",
+      "Arthritis",
+      "Headache",
+      "Supraspinatus tendonitis",
+      "Primary dysmenorrhea",
+      "Vasculitis",
+      "Migraine Disorders",
+      "Ankylosing spondylitis"
+    ],
+    "adherence_tips": [
+      "Take naproxen with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "chlorthalidone": {
+    "side_effects": [
+      "Jaundice",
+      "Vertigo",
+      "Photosensitivity",
+      "Abdominal discomfort",
+      "Headache",
+      "Stomach ache",
+      "Eosinophilia",
+      "Urticaria",
+      "Glycosuria",
+      "Pancreatitis",
+      "Orthostatic hypotension",
+      "Paraesthesia",
+      "Epigastric discomfort",
+      "Cholestasis intrahepatic",
+      "Vasculitis",
+      "Metabolic disorder",
+      "Abdominal pain",
+      "Anorexia",
+      "Rash",
+      "Asthenia"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Kidney Failure, Chronic",
+      "Liver Cirrhosis",
+      "Congestive heart failure",
+      "Hypercalciuria",
+      "Pregnancy",
+      "Premenstrual syndrome",
+      "Sensory Discomfort",
+      "Hypertensive disease",
+      "Ascites",
+      "Venous Insufficiency"
+    ],
+    "adherence_tips": [
+      "Take chlorthalidone with food to minimize stomach upset",
+      "Stay well hydrated to help prevent headaches",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "omeprazole": {
+    "side_effects": [
+      "Asthma aggravated",
+      "Rectal disorder",
+      "Eye irritation",
+      "Colitis microscopic",
+      "Mouth ulceration",
+      "Vertigo",
+      "Vision blurred",
+      "Dyspnoea",
+      "Candida infection",
+      "Glycosuria",
+      "Leg pain",
+      "Hallucination",
+      "Paraesthesia",
+      "Scotoma",
+      "Haematuria",
+      "Retrosternal pain",
+      "Depression",
+      "Necrosis",
+      "Myalgia",
+      "Anorexia"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Zollinger-Ellison syndrome",
+      "Peptic Esophagitis",
+      "Gastroesophageal reflux disease",
+      "Communicable Diseases",
+      "Erosive esophagitis",
+      "Ulcer",
+      "Nausea",
+      "Acute hemorrhage",
+      "Duodenal Ulcer",
+      "Dyspepsia"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "glipizide": {
+    "side_effects": [
+      "Vertigo",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Myalgia",
+      "Eruption",
+      "Anorexia",
+      "Porphyria cutanea tarda",
+      "Gastrointestinal haemorrhage",
+      "Foetor hepaticus",
+      "Agranulocytosis",
+      "Liver disorder",
+      "Nervousness",
+      "Constipation",
+      "Dizziness",
+      "Hepatitis",
+      "Flushing",
+      "Erythema",
+      "Haematochezia"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0016204",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0016204",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018681",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018681",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Blood glucose decreased",
+      "Hyperglycemia",
+      "Kidney Diseases",
+      "Neuropathy",
+      "Body Weight decreased",
+      "Ketosis",
+      "Diabetes Mellitus, Non-Insulin-Dependent",
+      "Deficiency of glucose-6-phosphate dehydrogenase",
+      "Diabetes Mellitus, Insulin-Dependent",
+      "Obesity"
+    ],
+    "adherence_tips": [
+      "Take glipizide with food to minimize stomach upset",
+      "Take glipizide at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider"
+    ]
+  },
+  "losartan": {
+    "side_effects": [
+      "Vertigo",
+      "Vision blurred",
+      "Dyspnoea",
+      "Leg pain",
+      "Glycosuria",
+      "Paraesthesia",
+      "Hypertrophy",
+      "Toothache",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Shoulder pain",
+      "Pneumonia",
+      "Pharyngitis",
+      "Purpura",
+      "Sinus bradycardia",
+      "Ecchymosis",
+      "Agranulocytosis",
+      "Ataxia",
+      "Joint swelling"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002871",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002871",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Kidney Failure, Chronic",
+      "Hypertensive (finding)",
+      "Myocardial Infarction",
+      "Kidney Diseases",
+      "Coughing",
+      "Hypertensive disease",
+      "Essential Hypertension",
+      "Diabetes Mellitus, Non-Insulin-Dependent",
+      "Heart failure",
+      "Cerebrovascular accident"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "ramipril": {
+    "side_effects": [
+      "Asthma aggravated",
+      "Acute hepatic failure",
+      "Laryngospasm",
+      "Vertigo",
+      "Abdominal discomfort",
+      "Amnesia",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Fatal outcomes",
+      "Myalgia",
+      "Blood potassium increased",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Vascular stenosis",
+      "Pancreatic enzymes increased",
+      "Hypotension symptomatic",
+      "Neuropathy",
+      "Oedema peripheral",
+      "Purpura",
+      "Renal failure acute"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0002962",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002962",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002962",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002962",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002994",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002994",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0008031",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0008031",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Myocardial Infarction",
+      "Hypertension, Renovascular",
+      "Hypertensive disease",
+      "Heart failure",
+      "Progressive renal failure",
+      "Post MI",
+      "Congestive heart failure",
+      "Renal Insufficiency",
+      "Angioedema",
+      "Acute myocardial infarction"
+    ],
+    "adherence_tips": [
+      "Take ramipril with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "canagliflozin": {
+    "side_effects": [
+      "Vulvovaginal mycotic infection",
+      "Polydipsia",
+      "Phimosis",
+      "Rash macular",
+      "Blood potassium increased",
+      "Prurigo",
+      "Renal failure acute",
+      "Vaginal infection",
+      "Serum potassium increased",
+      "Genital infection fungal",
+      "Diabetes mellitus",
+      "Constipation",
+      "Dizziness",
+      "Dyslipidaemia",
+      "Erythema",
+      "Glomerular filtration rate decreased",
+      "Malnutrition",
+      "Balanitis candida",
+      "Glucose low",
+      "Dermatitis"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027497",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0027497",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0039971",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0039971",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0042029",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0042029",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0740330",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0740330",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Balanoposthitis",
+      "Renal Insufficiency",
+      "Urticaria",
+      "Diabetes Mellitus, Non-Insulin-Dependent",
+      "Balanitis",
+      "Uncircumcised",
+      "Genital infection fungal"
+    ],
+    "adherence_tips": [
+      "Take canagliflozin with food to minimize stomach upset",
+      "Take canagliflozin at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider"
+    ]
+  },
+  "mirtazapine": {
+    "side_effects": [
+      "Breast engorgement",
+      "Mouth ulceration",
+      "Intraocular pressure increased",
+      "Vertigo",
+      "Left ventricular failure",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Ulcerative stomatitis",
+      "Vaginal infection",
+      "Tongue disorder",
+      "Agranulocytosis",
+      "Bone marrow depression",
+      "Nervousness",
+      "Constipation",
+      "Hyperlipidaemia",
+      "Blood and lymphatic system disorders",
+      "Hypercholesterolaemia",
+      "Dermatitis",
+      "Bursitis",
+      "Salivary gland enlargement"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Depressive disorder",
+      "Myocardial Infarction",
+      "Seizures",
+      "Major depressive disorder, single episode",
+      "Confusion",
+      "Heart Diseases",
+      "Suicide attempt",
+      "Renal Insufficiency",
+      "Hypersomnia",
+      "Unable to concentrate"
+    ],
+    "adherence_tips": [
+      "Take mirtazapine with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "clonidine": {
+    "side_effects": [
+      "Coombs test positive",
+      "Vision blurred",
+      "Emotional disorder",
+      "Dyspnoea",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Excoriation",
+      "Formication",
+      "Strangury",
+      "Vivid dreams",
+      "Rash macular",
+      "Malaise and fatigue",
+      "Anorexia",
+      "Auditory and visual hallucinations",
+      "Aggression",
+      "Instillation site pain",
+      "Withdrawal hypertension",
+      "Ear pain",
+      "Sinus bradycardia"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0001807",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0001807",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004096",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004096",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0008031",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0008031",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009676",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C1443060",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009676",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Hypertensive disease",
+      "Forgetfulness",
+      "Renal hypertension",
+      "Migraine Disorders",
+      "Neuralgia",
+      "Psychotic Disorders",
+      "Vascular Headaches",
+      "Attention deficit hyperactivity disorder",
+      "Hyperactive behavior",
+      "End stage cancer"
+    ],
+    "adherence_tips": [
+      "Take clonidine at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "verapamil": {
+    "side_effects": [
+      "Shakiness",
+      "Laryngospasm",
+      "Vertigo",
+      "Abdominal discomfort",
+      "Vision blurred",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Hyperkinesia",
+      "Myalgia",
+      "Anaphylactic shock",
+      "Hypotension asymptomatic",
+      "Hypotension symptomatic",
+      "Numbness of limbs",
+      "Oedema peripheral",
+      "Purpura",
+      "Atrioventricular block complete",
+      "Ecchymosis",
+      "Respiratory failure",
+      "Contusion",
+      "Hyperkeratosis"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004245",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004245",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009450",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009450",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009450",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009450",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Myocardial Infarction",
+      "Total Peripheral Resistance",
+      "Cardiac Arrhythmia",
+      "Hypertensive disease",
+      "Peripheral Vascular Diseases",
+      "Heart failure",
+      "Sinus rhythm",
+      "Tachycardia",
+      "Exercise-induced angina",
+      "Asthma"
+    ],
+    "adherence_tips": [
+      "Take verapamil with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "montelukast": {
+    "side_effects": [
+      "Bleeding tendency",
+      "Hallucination",
+      "Paraesthesia",
+      "Hyperkinesia",
+      "Myalgia",
+      "Anaphylactic shock",
+      "Tooth infection",
+      "Aggression",
+      "Vasculitic rash",
+      "Infestation NOS",
+      "Suicide attempt",
+      "Ear pain",
+      "Laryngitis",
+      "Pneumonia",
+      "Neuropathy",
+      "Suicide",
+      "Foetor hepaticus",
+      "Disturbance in attention",
+      "Immune system disorder",
+      "Contusion"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013395",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0013395",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Asthma",
+      "Rhinitis, Allergic, Perennial",
+      "Bronchoconstriction",
+      "Bronchospasm, Exercise-Induced",
+      "Allergic rhinitis (disorder)",
+      "Asthma chronic",
+      "Feeling suicidal (finding)",
+      "Hay fever"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "carvedilol": {
+    "side_effects": [
+      "Vertigo",
+      "Vision blurred",
+      "Amnesia",
+      "Dyspnoea",
+      "Glycosuria",
+      "Paranoia",
+      "Paraesthesia",
+      "Unwell",
+      "Depression",
+      "Haematuria",
+      "Retrosternal pain",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Melaena",
+      "Hypotension symptomatic",
+      "Gastrointestinal haemorrhage",
+      "Affect lability",
+      "Pneumonia",
+      "Oedema peripheral"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0001925",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0001925",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002871",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002871",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Myocardial Infarction",
+      "Total Peripheral Resistance",
+      "Non-ischemic cardiomyopathy",
+      "Dyspnea",
+      "Cardiac Arrhythmia",
+      "Hypertensive disease",
+      "Heart failure",
+      "Drug Interactions",
+      "Atrial Pressure",
+      "Prostatism"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "nifedipine": {
+    "side_effects": [
+      "Breast engorgement",
+      "Shakiness",
+      "Vertigo",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Amnesia",
+      "Dyspnoea",
+      "Leg pain",
+      "Paraesthesia",
+      "Allergic hepatitis",
+      "Tenderness",
+      "Haematuria",
+      "Retrosternal pain",
+      "Hyperkinesia",
+      "Myalgia",
+      "Acute generalised exanthematous pustulosis",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Blister",
+      "Melaena"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004093",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "ST segment elevation (finding)",
+      "Myocardial Infarction",
+      "Total Peripheral Resistance",
+      "Gastrointestinal Diseases",
+      "Hypertensive disease",
+      "Heart failure",
+      "Prolonged menses",
+      "Transient Ischemic Attack",
+      "Exercise-induced angina",
+      "Kidney Failure"
+    ],
+    "adherence_tips": [
+      "Take nifedipine with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "fluticasone": {
+    "side_effects": [
+      "Eye irritation",
+      "Intraocular pressure increased",
+      "Mouth ulceration",
+      "Allergic contact dermatitis",
+      "Abdominal discomfort",
+      "Vision blurred",
+      "Aphonia",
+      "Gastrointestinal signs and symptoms",
+      "Dyspnoea",
+      "Candida infection",
+      "Oral candidiasis",
+      "Glycosuria",
+      "Vulvovaginal mycotic infection",
+      "Eyelid oedema",
+      "Tenderness",
+      "Excoriation",
+      "Hyperkinesia",
+      "Cushing's syndrome",
+      "Toothache",
+      "Myalgia"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0004096",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004096",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004096",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004096",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006277",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006277",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006840",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006840",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0010200",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Protein allergy",
+      "Allergic rhinitis (disorder)",
+      "Asthma chronic",
+      "Dermatitis, Atopic",
+      "Hypersensitivity",
+      "Asthma",
+      "Glaucoma",
+      "Rhinitis, Allergic, Perennial",
+      "Pruritus",
+      "Sneezing"
+    ],
+    "adherence_tips": [
+      "Take fluticasone with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "ondansetron": {
+    "side_effects": [
+      "Toxic skin eruption",
+      "Type I hypersensitivity",
+      "Laryngospasm",
+      "Vision blurred",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Anaphylactic shock",
+      "Wound",
+      "Dystonic reaction",
+      "Anaphylactoid reaction",
+      "Foetor hepaticus",
+      "Hiccups",
+      "Immune system disorder",
+      "Liver disorder",
+      "Constipation",
+      "Dizziness",
+      "Flushing",
+      "Erythema",
+      "Injection site burning",
+      "Dermatitis"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006266",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006266",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0008031",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0008031",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Postoperative Nausea",
+      "Vomiting",
+      "Malignant Neoplasms",
+      "Nausea"
+    ],
+    "adherence_tips": [
+      "Take ondansetron with food to minimize stomach upset",
+      "Take ondansetron at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider"
+    ]
+  },
+  "clopidogrel": {
+    "side_effects": [
+      "Lichen planus",
+      "Colitis microscopic",
+      "Acute hepatic failure",
+      "Vertigo",
+      "Iron deficiency anaemia",
+      "Haemoptysis",
+      "Atherothrombosis",
+      "Dyspnoea",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Haematuria",
+      "Fatal outcomes",
+      "Myalgia",
+      "Anaphylactic shock",
+      "Haemoglobin decreased",
+      "Blood disorder",
+      "Colitis",
+      "Ulcer",
+      "Eosinophilic pneumonia"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0015402",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0015402",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0518015",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0518015",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0019080",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0518015",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "ST segment elevation (finding)",
+      "Myocardial Infarction",
+      "Non-Q wave MI",
+      "Hemorrhage",
+      "Acute myocardial infarction",
+      "Cerebrovascular Disorders",
+      "Neutropenia",
+      "Thromboembolic event",
+      "Infarction",
+      "Coronary Artery Disease"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "liraglutide": {
+    "side_effects": [
+      "Malaise",
+      "Intestinal obstruction",
+      "Injection site reaction",
+      "Gastrooesophageal reflux disease",
+      "Blood creatinine increased",
+      "Urinary tract disorder",
+      "Abdominal discomfort",
+      "Headache",
+      "Renal failure chronic",
+      "Dyspnoea",
+      "Urticaria",
+      "Injection site dermatitis",
+      "Pancreatitis",
+      "Oedema",
+      "Cardiac disorder",
+      "Urethral disorder",
+      "Renal failure",
+      "Toothache",
+      "Abdominal pain",
+      "Anorexia"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Antibody NOS negative",
+      "Pancreatitis, Acute Necrotizing",
+      "Renal Insufficiency",
+      "Diabetes Mellitus, Non-Insulin-Dependent",
+      "Pancreatitis",
+      "Diabetes Mellitus, Insulin-Dependent",
+      "Neoplasms",
+      "Antibody test positive",
+      "Pancreatitis acute",
+      "Diabetic Ketoacidosis"
+    ],
+    "adherence_tips": [
+      "Take liraglutide with food to minimize stomach upset",
+      "Stay well hydrated to help prevent headaches",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "olmesartan": {
+    "side_effects": [
+      "Systemic lupus erythematosus",
+      "Vertigo",
+      "Vision blurred",
+      "Glycosuria",
+      "Haematuria",
+      "Toothache",
+      "Myalgia",
+      "Blood potassium increased",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Pharyngolaryngeal pain",
+      "Infestation NOS",
+      "Pneumonia",
+      "Blood bilirubin increased",
+      "Oedema peripheral",
+      "Renal failure acute",
+      "Agranulocytosis",
+      "Bone marrow depression",
+      "Blood potassium decreased",
+      "Xanthopsia"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0948594",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Hypertensive (finding)",
+      "Myocardial Infarction",
+      "Hypotension",
+      "Hypertensive disease",
+      "Heart failure",
+      "Angina Pectoris",
+      "Hyperlipidemia",
+      "Diabetic Nephropathy",
+      "Diabetic",
+      "Diabetes Mellitus"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "simvastatin": {
+    "side_effects": [
+      "Systemic lupus erythematosus",
+      "Vertigo",
+      "Vision blurred",
+      "Abdominal discomfort",
+      "Amnesia",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Depression",
+      "Tenderness",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Dermatomyositis",
+      "Ache",
+      "Purpura",
+      "Foetor hepaticus",
+      "Liver disorder",
+      "Diabetes mellitus",
+      "Constipation",
+      "Dizziness"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Myocardial Infarction",
+      "Leg Ulcer",
+      "Cardiovascular Diseases",
+      "Hypertensive disease",
+      "Peripheral Vascular Diseases",
+      "Hypothyroidism",
+      "Carotid Artery Diseases",
+      "Coronary Arteriosclerosis",
+      "Cholesterol serum elevated",
+      "Fredrickson Type III lipidemia"
+    ],
+    "adherence_tips": [
+      "Take simvastatin with food to minimize stomach upset",
+      "Take simvastatin at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider"
+    ]
+  },
+  "prednisone": {
+    "side_effects": [
+      "Intraocular pressure increased",
+      "Vertigo",
+      "Vision blurred",
+      "Carbohydrate tolerance decreased",
+      "Water retention",
+      "Amnesia",
+      "Glycosuria",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Hyperkinesia",
+      "Cushing's syndrome",
+      "Necrosis",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Capillary fragility increased",
+      "Febrile neutropenia",
+      "Blood potassium increased",
+      "Lipids abnormal"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "nervous system disorder",
+      "Exfoliative dermatitis",
+      "Contact Dermatitis",
+      "Drug Eruptions",
+      "Tenosynovitis",
+      "Stevens-Johnson Syndrome",
+      "Ulcer",
+      "Dermatomyositis",
+      "Pneumonia",
+      "Pulmonary Emphysema"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "tramadol": {
+    "side_effects": [
+      "Rectal disorder",
+      "Vertigo",
+      "Vein pain",
+      "Hyperventilation",
+      "Strangury",
+      "Pyelonephritis chronic",
+      "Toothache",
+      "Blood glucose abnormal",
+      "Pneumonia",
+      "White blood cells urine positive",
+      "Oedema peripheral",
+      "Ecchymosis",
+      "Cyst epidermal",
+      "Dysphoria",
+      "Dyssomnia",
+      "Tongue disorder",
+      "Thrombocytosis",
+      "Hand fracture",
+      "Contusion",
+      "Nervousness"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0003123",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0232462",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003123",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0232462",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003123",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0232462",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003123",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0232462",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Degenerative polyarthritis",
+      "Pain, Postoperative",
+      "Acute onset pain",
+      "Pain",
+      "Low Back Pain",
+      "Chronic pain"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "celecoxib": {
+    "side_effects": [
+      "Mouth ulceration",
+      "Vertigo",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Sinus bradycardia",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Thrombocytosis",
+      "Agranulocytosis",
+      "Nervousness",
+      "Constipation",
+      "Blood and lymphatic system disorders",
+      "Hypercholesterolaemia",
+      "Haemoglobin increased",
+      "Dermatitis",
+      "Vaginal haemorrhage",
+      "Hot flush",
+      "Deep vein thrombosis",
+      "Hypophosphataemia",
+      "Eye haemorrhage"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0004604",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009450",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009450",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Arthritis",
+      "Hypertensive disease",
+      "Primary dysmenorrhea",
+      "polyps",
+      "Ankylosing spondylitis",
+      "Wounds and Injuries",
+      "Colon adenoma",
+      "Acute onset pain",
+      "Inflammation",
+      "Degenerative polyarthritis"
+    ],
+    "adherence_tips": [
+      "Take celecoxib with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "budesonide": {
+    "side_effects": [
+      "Eye infection",
+      "Metrorrhagia",
+      "Intraocular pressure increased",
+      "Vertigo",
+      "Tooth disorder",
+      "Vision blurred",
+      "Amnesia",
+      "Candida infection",
+      "Oral candidiasis",
+      "Dyspnoea",
+      "Paraesthesia",
+      "Tenderness",
+      "Haematuria",
+      "Hyperkinesia",
+      "Cushing's syndrome",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Infestation NOS",
+      "Ulcer"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000731",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000731",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Asthma",
+      "Rhinitis, Allergic, Perennial",
+      "Croup",
+      "Rhinitis, Vasomotor",
+      "Rhinitis perennial",
+      "Nasal Polyps",
+      "Rhinitis",
+      "Ulcerative Colitis",
+      "Inflammation",
+      "Crohn Disease"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "propranolol": {
+    "side_effects": [
+      "Systemic lupus erythematosus",
+      "Peripheral arterial occlusive disease",
+      "Laryngospasm",
+      "Vertigo",
+      "Dyspnoea",
+      "Amnesia",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Vivid dreams",
+      "Anaphylactic shock",
+      "Infestation NOS",
+      "Affect lability",
+      "Ache",
+      "Purpura",
+      "Anaphylactoid reaction",
+      "Agranulocytosis",
+      "Lower respiratory tract infection",
+      "Peripheral coldness",
+      "Abnormal dreams"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006277",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0006277",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0009806",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0011991",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Myocardial Infarction",
+      "Headache",
+      "Cardiac Arrhythmia",
+      "Hypertensive disease",
+      "Strawberry nevus of skin",
+      "Myocardial depression",
+      "Heart failure",
+      "Sinus rhythm",
+      "Migraine Disorders",
+      "Coronary Arteriosclerosis"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "aspirin": {
+    "side_effects": [
+      "Vertigo",
+      "Flu symptoms",
+      "Dyspnoea",
+      "Eruption",
+      "Anaphylactic shock",
+      "Melaena",
+      "Excitement",
+      "Ulcer",
+      "Gastrointestinal haemorrhage",
+      "Purpura",
+      "Foetor hepaticus",
+      "Respiratory failure",
+      "Contusion",
+      "Liver disorder",
+      "Peptic ulcer",
+      "Haematemesis",
+      "Diabetes mellitus",
+      "Dizziness",
+      "Flushing",
+      "Dermatitis"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Cerebral Infarction",
+      "Myocardial Infarction",
+      "Traumatic injury",
+      "Arthritis",
+      "Headache",
+      "Myositis",
+      "Migraine Disorders",
+      "Neuralgia",
+      "Transient Ischemic Attack",
+      "Rheumatic Fever"
+    ],
+    "adherence_tips": [
+      "Take aspirin at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "esomeprazole": {
+    "side_effects": [
+      "Asthma aggravated",
+      "Rectal disorder",
+      "Mouth ulceration",
+      "Vertigo",
+      "Vision blurred",
+      "Dyspnoea",
+      "Candida infection",
+      "Glycosuria",
+      "Hallucination",
+      "Paraesthesia",
+      "Scotoma",
+      "Haematuria",
+      "Retrosternal pain",
+      "Depression",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Melaena",
+      "Aggression",
+      "Infestation NOS"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Gastroesophageal reflux disease"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "bupropion": {
+    "side_effects": [
+      "Joint injury",
+      "Mouth ulceration",
+      "Intraocular pressure increased",
+      "Vertigo",
+      "Hyperventilation",
+      "Panic reaction",
+      "Toothache",
+      "Pleuritic pain",
+      "Tardive dyskinesia",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Dysphoria",
+      "Tongue disorder",
+      "Contusion",
+      "Bruxism",
+      "Testicular swelling",
+      "Nervousness",
+      "Constipation"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002418",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Depressive disorder",
+      "Seasonal Affective Disorder",
+      "Sexual Dysfunction",
+      "Seizures",
+      "Major depressive disorder, single episode",
+      "Chronic Obstructive Airway Disease",
+      "Suicide attempt",
+      "Nicotine Dependence",
+      "Hypersomnia",
+      "Unable to concentrate"
+    ],
+    "adherence_tips": [
+      "Take bupropion with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "diazepam": {
+    "side_effects": [
+      "Rectal disorder",
+      "Type I hypersensitivity",
+      "Laryngospasm",
+      "Vertigo",
+      "Vision blurred",
+      "Amnesia",
+      "Dyspnoea",
+      "Hyperventilation",
+      "Panic reaction",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Proctalgia",
+      "Tenderness",
+      "Strangury",
+      "Hyperkinesia",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Auditory and visual hallucinations"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Muscle Spasticity",
+      "Delirium",
+      "Convulsion in childhood",
+      "Migraine Disorders",
+      "Seizures",
+      "Status Epilepticus",
+      "Wounds and Injuries",
+      "Cerebral Palsy",
+      "Psychotic Disorders",
+      "Anxiety Disorders"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "aripiprazole": {
+    "side_effects": [
+      "Mouth ulceration",
+      "Laryngospasm",
+      "Vertigo",
+      "Iron deficiency anaemia",
+      "Chapped lips",
+      "Action tremor",
+      "Panic reaction",
+      "Toothache",
+      "Tardive dyskinesia",
+      "Pneumonia",
+      "White blood cells urine positive",
+      "Oedema peripheral",
+      "Movements involuntary",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Dysphoria",
+      "Thrombocytosis",
+      "Tongue disorder",
+      "Agranulocytosis",
+      "Contusion"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003862",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Schizophrenia, Childhood",
+      "Manic",
+      "Dyskinetic syndrome",
+      "Behavior showing increased motor activity",
+      "Bipolar Disorder",
+      "Aggressive behavior",
+      "Schizophrenia",
+      "Psychotic Disorders",
+      "Agitation",
+      "Major Depressive Disorder"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "sertraline": {
+    "side_effects": [
+      "Mouth ulceration",
+      "Laryngospasm",
+      "Vertigo",
+      "Hyperventilation",
+      "Fatal outcomes",
+      "Hypertrophy",
+      "Strangury",
+      "Vaginitis atrophic",
+      "Oedema peripheral",
+      "Ulcerative stomatitis",
+      "Tongue disorder",
+      "Agranulocytosis",
+      "Bruxism",
+      "Nervousness",
+      "Constipation",
+      "Blood and lymphatic system disorders",
+      "Hypercholesterolaemia",
+      "Vasodilation",
+      "Pulmonary hypertension",
+      "Dermatitis"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Phobia, Social",
+      "Depressive disorder",
+      "Obsessive compulsive behavior",
+      "Obsessive-Compulsive Disorder",
+      "Dyspnea",
+      "FInding of estrangement",
+      "Headache",
+      "Derealization",
+      "Drug Interactions",
+      "Sexual Dysfunction"
+    ],
+    "adherence_tips": [
+      "Take sertraline with food to minimize stomach upset",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "famotidine": {
+    "side_effects": [
+      "Glossodynia",
+      "Abdominal discomfort",
+      "Conjunctival hyperaemia",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Haematuria",
+      "Myalgia",
+      "Anorexia",
+      "Anaphylactic shock",
+      "Ear pain",
+      "Agranulocytosis",
+      "Bone marrow depression",
+      "Constipation",
+      "Dizziness",
+      "Hepatitis",
+      "Flushing",
+      "Neck pain",
+      "Acne",
+      "Bronchitis"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Kidney Failure, Chronic",
+      "Acid indigestion",
+      "Gastrointestinal tract irritation",
+      "Zollinger-Ellison syndrome",
+      "Diarrhea",
+      "Headache",
+      "Urticaria",
+      "Gastric erosions",
+      "Drug Interactions",
+      "Teratogenesis"
+    ],
+    "adherence_tips": [
+      "Take famotidine with food to minimize stomach upset",
+      "Take famotidine at bedtime if it causes drowsiness",
+      "Avoid driving or operating machinery until you know how this medication affects you",
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider"
+    ]
+  },
+  "furosemide": {
+    "side_effects": [
+      "Vertigo",
+      "Vision blurred",
+      "Glycosuria",
+      "Polydipsia",
+      "Paraesthesia",
+      "Eruption",
+      "Acute generalised exanthematous pustulosis",
+      "Anorexia",
+      "Blister",
+      "Anaphylactic shock",
+      "Instillation site pain",
+      "Hepatic encephalopathy",
+      "Purpura",
+      "Anaphylactoid reaction",
+      "Taste sweet",
+      "Disturbance in attention",
+      "Polyangiitis",
+      "Immune system disorder",
+      "Pancreatitis acute",
+      "Agranulocytosis"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Kidney Failure, Chronic",
+      "Hypertensive disease",
+      "Cerebral Edema",
+      "Nodular glomerulosclerosis",
+      "Heart failure",
+      "Chronic nephritis",
+      "Lupus Erythematosus",
+      "Hypersensitivity",
+      "Immobile",
+      "Communicable Diseases"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "metoclopramide": {
+    "side_effects": [
+      "Laryngospasm",
+      "Dyspnoea",
+      "Hallucination",
+      "Depression",
+      "Blood disorder",
+      "Tardive dyskinesia",
+      "Obsessive rumination",
+      "Methaemoglobinaemia",
+      "Grimacing",
+      "Dystonic reaction",
+      "Suicide",
+      "Movements involuntary",
+      "Dysphoria",
+      "Respiratory failure",
+      "Altered state of consciousness",
+      "Agranulocytosis",
+      "Tetanus",
+      "Convulsive seizure",
+      "Function kidney decreased",
+      "Nervousness"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Gastrointestinal Diseases",
+      "Retention gastric",
+      "Hypertensive disease",
+      "Muscle hypotonia",
+      "Migraine Disorders",
+      "Diabetic",
+      "Gastroesophageal reflux disease",
+      "Anorexia",
+      "Asthma",
+      "Communicable Diseases"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "paroxetine": {
+    "side_effects": [
+      "Rectal disorder",
+      "Mouth ulceration",
+      "Laryngospasm",
+      "Vertigo",
+      "Iron deficiency anaemia",
+      "Lymphocyte abnormal",
+      "Hyperventilation",
+      "Negativism",
+      "Fatal outcomes",
+      "Toothache",
+      "Cervix disorder",
+      "Pneumonia",
+      "Oedema peripheral",
+      "Ulcerative stomatitis",
+      "Abscess",
+      "Ecchymosis",
+      "Vaginal infection",
+      "Thrombocytosis",
+      "Tongue disorder",
+      "Agranulocytosis"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0000737",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0687713",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002622",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0002622",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0003467",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Depressive disorder",
+      "Obsessive compulsive behavior",
+      "Derealization",
+      "Mood Disorders",
+      "Myalgia",
+      "Hypervigilance",
+      "Fear of death",
+      "Hot flushes",
+      "Suicide attempt",
+      "Dysphoria"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "lorazepam": {
+    "side_effects": [
+      "Disinhibition",
+      "Vertigo",
+      "Vision blurred",
+      "Amnesia",
+      "Hyperventilation",
+      "Hallucination",
+      "Aggression",
+      "Excitement",
+      "Instillation site pain",
+      "Gastrointestinal haemorrhage",
+      "Thrombocytosis",
+      "Respiratory failure",
+      "Agranulocytosis",
+      "Ataxia",
+      "Sleep apnoea syndrome",
+      "Myoclonus",
+      "Respiratory arrest",
+      "Airway obstruction NOS",
+      "Dysarthria",
+      "Nervousness"
+    ],
+    "common_side_effects": [],
+    "indications": [
+      "Depressive Symptoms",
+      "Tension",
+      "Anxiety",
+      "Anxiety Disorders",
+      "Sleeplessness",
+      "Drowsiness",
+      "Anxiety neurosis (finding)",
+      "Status Epilepticus"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  },
+  "metoprolol": {
+    "side_effects": [
+      "Eye irritation",
+      "Laryngospasm",
+      "Vertigo",
+      "Vision blurred",
+      "Amnesia",
+      "Dyspnoea",
+      "Retroperitoneal fibrosis",
+      "Hallucination",
+      "Paraesthesia",
+      "Depression",
+      "Vivid dreams",
+      "Affect lability",
+      "Pneumonia",
+      "Ache",
+      "Oedema peripheral",
+      "Atrioventricular block complete",
+      "Disturbance in attention",
+      "Altered state of consciousness",
+      "Immune system disorder",
+      "Agranulocytosis"
+    ],
+    "common_side_effects": [
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0012833",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018801",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0018801",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0020649",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0020649",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0020651",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0020651",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0042571",
+        "frequency": "placebo"
+      },
+      {
+        "effect": "C0042571",
+        "frequency": "placebo"
+      }
+    ],
+    "indications": [
+      "Kidney Failure, Chronic",
+      "Myocardial Infarction",
+      "Cardiac Arrhythmia",
+      "Hypertensive disease",
+      "Heart failure",
+      "Hyperthyroidism",
+      "Myocardial Ischemia",
+      "Migraine Disorders",
+      "Tachycardia",
+      "Kidney Failure"
+    ],
+    "adherence_tips": [
+      "Set a daily reminder to take your medication at the same time each day",
+      "Do not stop taking this medication without consulting your healthcare provider",
+      "Report any unusual or severe side effects to your doctor"
+    ]
+  }
+}

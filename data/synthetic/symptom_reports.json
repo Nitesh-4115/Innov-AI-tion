@@ -1,0 +1,490 @@
+[
+  {
+    "id": 1,
+    "patient_id": 1,
+    "symptom": "Headache",
+    "severity": 10,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-10-24T07:48:29.096903"
+  },
+  {
+    "id": 2,
+    "patient_id": 1,
+    "symptom": "Stomach upset",
+    "severity": 10,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-01T09:48:29.096903"
+  },
+  {
+    "id": 3,
+    "patient_id": 1,
+    "symptom": "Constipation",
+    "severity": 10,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-17T05:48:29.096903"
+  },
+  {
+    "id": 4,
+    "patient_id": 1,
+    "symptom": "Rash",
+    "severity": 6,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-30T22:48:29.096903"
+  },
+  {
+    "id": 5,
+    "patient_id": 3,
+    "symptom": "Rash",
+    "severity": 9,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-16T01:48:29.218475"
+  },
+  {
+    "id": 6,
+    "patient_id": 3,
+    "symptom": "Fatigue",
+    "severity": 7,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-16T22:48:29.218475"
+  },
+  {
+    "id": 7,
+    "patient_id": 3,
+    "symptom": "Insomnia",
+    "severity": 5,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-06T00:48:29.218475"
+  },
+  {
+    "id": 8,
+    "patient_id": 3,
+    "symptom": "Muscle pain",
+    "severity": 10,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-05T15:48:29.218475"
+  },
+  {
+    "id": 9,
+    "patient_id": 5,
+    "symptom": "Nausea",
+    "severity": 9,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-04T09:48:29.361159"
+  },
+  {
+    "id": 10,
+    "patient_id": 5,
+    "symptom": "Joint pain",
+    "severity": 6,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-03T07:48:29.361159"
+  },
+  {
+    "id": 11,
+    "patient_id": 7,
+    "symptom": "Dry mouth",
+    "severity": 3,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-11T12:48:29.485931"
+  },
+  {
+    "id": 12,
+    "patient_id": 7,
+    "symptom": "Nausea",
+    "severity": 7,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-19T04:48:29.485931"
+  },
+  {
+    "id": 13,
+    "patient_id": 8,
+    "symptom": "Muscle pain",
+    "severity": 9,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-10T22:48:29.571142"
+  },
+  {
+    "id": 14,
+    "patient_id": 8,
+    "symptom": "Fatigue",
+    "severity": 4,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-08T09:48:29.571142"
+  },
+  {
+    "id": 15,
+    "patient_id": 9,
+    "symptom": "Diarrhea",
+    "severity": 10,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-10-26T11:48:29.605538"
+  },
+  {
+    "id": 16,
+    "patient_id": 9,
+    "symptom": "Joint pain",
+    "severity": 8,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-10T10:48:29.605538"
+  },
+  {
+    "id": 17,
+    "patient_id": 9,
+    "symptom": "Stomach upset",
+    "severity": 10,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-05T19:48:29.605538"
+  },
+  {
+    "id": 18,
+    "patient_id": 9,
+    "symptom": "Joint pain",
+    "severity": 3,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-13T10:48:29.605538"
+  },
+  {
+    "id": 19,
+    "patient_id": 10,
+    "symptom": "Anxiety",
+    "severity": 6,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-06T02:48:29.627462"
+  },
+  {
+    "id": 20,
+    "patient_id": 10,
+    "symptom": "Diarrhea",
+    "severity": 2,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-29T06:48:29.627462"
+  },
+  {
+    "id": 21,
+    "patient_id": 11,
+    "symptom": "Constipation",
+    "severity": 5,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-02T08:48:29.731304"
+  },
+  {
+    "id": 22,
+    "patient_id": 12,
+    "symptom": "Stomach upset",
+    "severity": 7,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-10-28T04:48:29.776508"
+  },
+  {
+    "id": 23,
+    "patient_id": 12,
+    "symptom": "Swelling",
+    "severity": 2,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-10-27T22:48:29.776508"
+  },
+  {
+    "id": 24,
+    "patient_id": 13,
+    "symptom": "Shortness of breath",
+    "severity": 3,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-14T15:48:29.811877"
+  },
+  {
+    "id": 25,
+    "patient_id": 14,
+    "symptom": "Weight gain",
+    "severity": 1,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-04T00:48:29.854392"
+  },
+  {
+    "id": 26,
+    "patient_id": 14,
+    "symptom": "Nausea",
+    "severity": 10,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-20T20:48:29.854392"
+  },
+  {
+    "id": 27,
+    "patient_id": 14,
+    "symptom": "Swelling",
+    "severity": 7,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-11T09:48:29.854392"
+  },
+  {
+    "id": 28,
+    "patient_id": 14,
+    "symptom": "Anxiety",
+    "severity": 3,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-29T17:48:29.854392"
+  },
+  {
+    "id": 29,
+    "patient_id": 14,
+    "symptom": "Nausea",
+    "severity": 7,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-10-31T18:48:29.854392"
+  },
+  {
+    "id": 30,
+    "patient_id": 15,
+    "symptom": "Insomnia",
+    "severity": 6,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-07T01:48:29.938572"
+  },
+  {
+    "id": 31,
+    "patient_id": 15,
+    "symptom": "Shortness of breath",
+    "severity": 8,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-02T20:48:29.938572"
+  },
+  {
+    "id": 32,
+    "patient_id": 15,
+    "symptom": "Constipation",
+    "severity": 2,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-05T06:48:29.938572"
+  },
+  {
+    "id": 33,
+    "patient_id": 15,
+    "symptom": "Shortness of breath",
+    "severity": 6,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-10-23T15:48:29.938572"
+  },
+  {
+    "id": 34,
+    "patient_id": 15,
+    "symptom": "Swelling",
+    "severity": 7,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-21T18:48:29.938572"
+  },
+  {
+    "id": 35,
+    "patient_id": 16,
+    "symptom": "Dry mouth",
+    "severity": 8,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-30T06:48:30.007503"
+  },
+  {
+    "id": 36,
+    "patient_id": 16,
+    "symptom": "Cough",
+    "severity": 8,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-08T15:48:30.007503"
+  },
+  {
+    "id": 37,
+    "patient_id": 16,
+    "symptom": "Swelling",
+    "severity": 9,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-01T13:48:30.007503"
+  },
+  {
+    "id": 38,
+    "patient_id": 16,
+    "symptom": "Headache",
+    "severity": 1,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-10-25T10:48:30.007503"
+  },
+  {
+    "id": 39,
+    "patient_id": 17,
+    "symptom": "Muscle pain",
+    "severity": 10,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-29T18:48:30.039344"
+  },
+  {
+    "id": 40,
+    "patient_id": 17,
+    "symptom": "Muscle pain",
+    "severity": 10,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-08T11:48:30.039344"
+  },
+  {
+    "id": 41,
+    "patient_id": 18,
+    "symptom": "Shortness of breath",
+    "severity": 8,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-05T04:48:30.082467"
+  },
+  {
+    "id": 42,
+    "patient_id": 18,
+    "symptom": "Swelling",
+    "severity": 2,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-02T07:48:30.082467"
+  },
+  {
+    "id": 43,
+    "patient_id": 19,
+    "symptom": "Cough",
+    "severity": 4,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-12T15:48:30.124089"
+  },
+  {
+    "id": 44,
+    "patient_id": 19,
+    "symptom": "Nausea",
+    "severity": 2,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-15T17:48:30.124089"
+  },
+  {
+    "id": 45,
+    "patient_id": 20,
+    "symptom": "Fatigue",
+    "severity": 5,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-10T22:48:30.182999"
+  },
+  {
+    "id": 46,
+    "patient_id": 20,
+    "symptom": "Dizziness",
+    "severity": 4,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-14T09:48:30.182999"
+  },
+  {
+    "id": 47,
+    "patient_id": 21,
+    "symptom": "Cough",
+    "severity": 4,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-25T11:48:30.214076"
+  },
+  {
+    "id": 48,
+    "patient_id": 21,
+    "symptom": "Joint pain",
+    "severity": 1,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-08T23:48:30.214076"
+  },
+  {
+    "id": 49,
+    "patient_id": 21,
+    "symptom": "Swelling",
+    "severity": 2,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-07T16:48:30.214076"
+  },
+  {
+    "id": 50,
+    "patient_id": 21,
+    "symptom": "Headache",
+    "severity": 4,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-15T16:48:30.214076"
+  },
+  {
+    "id": 51,
+    "patient_id": 22,
+    "symptom": "Muscle pain",
+    "severity": 3,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-25T01:48:30.263828"
+  },
+  {
+    "id": 52,
+    "patient_id": 22,
+    "symptom": "Dizziness",
+    "severity": 3,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-11T07:48:30.263828"
+  },
+  {
+    "id": 53,
+    "patient_id": 22,
+    "symptom": "Shortness of breath",
+    "severity": 10,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-07T20:48:30.263828"
+  },
+  {
+    "id": 54,
+    "patient_id": 22,
+    "symptom": "Headache",
+    "severity": 8,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-20T01:48:30.263828"
+  },
+  {
+    "id": 55,
+    "patient_id": 24,
+    "symptom": "Dry mouth",
+    "severity": 1,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-10-26T11:48:30.395173"
+  },
+  {
+    "id": 56,
+    "patient_id": 24,
+    "symptom": "Rash",
+    "severity": 6,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-10-25T19:48:30.395173"
+  },
+  {
+    "id": 57,
+    "patient_id": 25,
+    "symptom": "Dizziness",
+    "severity": 5,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-04T08:48:30.432528"
+  },
+  {
+    "id": 58,
+    "patient_id": 25,
+    "symptom": "Fatigue",
+    "severity": 8,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-23T10:48:30.432528"
+  },
+  {
+    "id": 59,
+    "patient_id": 25,
+    "symptom": "Dizziness",
+    "severity": 3,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-12-05T14:48:30.432528"
+  },
+  {
+    "id": 60,
+    "patient_id": 25,
+    "symptom": "Muscle pain",
+    "severity": 6,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-12T17:48:30.432528"
+  },
+  {
+    "id": 61,
+    "patient_id": 25,
+    "symptom": "Anxiety",
+    "severity": 3,
+    "description": "Synthetic data for testing",
+    "reported_at": "2025-11-14T18:48:30.432528"
+  }
+]

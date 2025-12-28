@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f5f5f5; }
+        .container { max-width: 600px; margin: 0 auto; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .header { background: #dc3545; color: white; padding: 20px; border-radius: 8px 8px 0 0; }
+        .header.warning { background: #ffc107; color: #333; }
+        .header.info { background: #17a2b8; }
+        .content { padding: 25px; }
+        .patient-info { background: #f8f9fa; padding: 15px; border-radius: 6px; margin-bottom: 20px; }
+        .alert-details { border-left: 4px solid #dc3545; padding-left: 15px; margin: 20px 0; }
+        .metric { display: inline-block; background: #e9ecef; padding: 8px 15px; border-radius: 20px; margin: 5px; }
+        .action-required { background: #fff3cd; padding: 15px; border-radius: 6px; margin-top: 20px; }
+        .button { display: inline-block; background: #007bff; color: white; padding: 10px 25px; border-radius: 5px; text-decoration: none; margin-right: 10px; }
+        .button.secondary { background: #6c757d; }
+        .footer { padding: 20px; text-align: center; color: #666; font-size: 12px; border-top: 1px solid #eee; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header {{alert_level}}">
+            <h2>{{alert_icon}} Patient Adherence Alert</h2>
+            <p>Priority: {{priority_level}}</p>
+        </div>
+        
+        <div class="content">
+            <div class="patient-info">
+                <h3>Patient Information</h3>
+                <p><strong>Name:</strong> {{patient_name}}</p>
+                <p><strong>DOB:</strong> {{patient_dob}}</p>
+                <p><strong>MRN:</strong> {{patient_mrn}}</p>
+                <p><strong>Primary Condition:</strong> {{primary_condition}}</p>
+            </div>
+            
+            <div class="alert-details">
+                <h3>Alert Details</h3>
+                <p><strong>Type:</strong> {{alert_type}}</p>
+                <p><strong>Triggered:</strong> {{alert_timestamp}}</p>
+                <p>{{alert_description}}</p>
+            </div>
+            
+            <h4>Adherence Metrics</h4>
+            <div>
+                <span class="metric">7-Day: {{adherence_7day}}%</span>
+                <span class="metric">30-Day: {{adherence_30day}}%</span>
+                <span class="metric">Trend: {{adherence_trend}}</span>
+            </div>
+            
+            <h4>Affected Medications</h4>
+            <ul>
+                {{#medications}}
+                <li><strong>{{name}}</strong> - {{adherence}}% adherence ({{missed_doses}} missed)</li>
+                {{/medications}}
+            </ul>
+            
+            {{#identified_barriers}}
+            <h4>Identified Barriers</h4>
+            <ul>
+                {{#barriers}}
+                <li>{{description}}</li>
+                {{/barriers}}
+            </ul>
+            {{/identified_barriers}}
+            
+            <div class="action-required">
+                <h4>⚡ Recommended Actions</h4>
+                <ul>
+                    {{#actions}}
+                    <li>{{text}}</li>
+                    {{/actions}}
+                </ul>
+            </div>
+            
+            <div style="margin-top: 25px;">
+                <a href="{{patient_link}}" class="button">View Patient Details</a>
+                <a href="{{acknowledge_link}}" class="button secondary">Acknowledge Alert</a>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>AdherenceGuardian Clinical Alert System</p>
+            <p>This is an automated alert. Please do not reply to this email.</p>
+        </div>
+    </div>
+</body>
+</html>
