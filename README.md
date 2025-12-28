@@ -78,7 +78,8 @@ flowchart LR
   MA --> ActionLayer
   BA --> ActionLayer
   LA --> ActionLayer
-  ActionLayer --> UI```
+  ActionLayer --> UI
+```
 
 ### Architecture diagram (detailed workflow)
 
